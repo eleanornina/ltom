@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="._BrowserCache.php" server="ftp.eleanornina.com" local="130575415079683049" remote="130574871000000000" Dst="2" />
+<file name="._Cdn.php" server="ftp.eleanornina.com" local="130575415080963942" remote="130574871000000000" Dst="2" />
+<file name="._CdnAdmin.php" server="ftp.eleanornina.com" local="130575415086818097" remote="130574871000000000" Dst="2" />
+<file name="._CdnCache.php" server="ftp.eleanornina.com" local="130575415089560041" remote="130574871000000000" Dst="2" />
+<file name="._CdnCommon.php" server="ftp.eleanornina.com" local="130575415090830960" remote="130574871000000000" Dst="2" />
+<file name="._CloudFlare.php" server="ftp.eleanornina.com" local="130575415096595071" remote="130574871000000000" Dst="2" />
+<file name="._CloudFlareAdmin.php" server="ftp.eleanornina.com" local="130575415099347025" remote="130574871000000000" Dst="2" />
+<file name="._DbCache.php" server="ftp.eleanornina.com" local="130575415100637940" remote="130574871000000000" Dst="2" />
+<file name="._ExtensionsAdmin.php" server="ftp.eleanornina.com" local="130575415105500045" remote="130574871000000000" Dst="2" />
+<file name="._Minify.php" server="ftp.eleanornina.com" local="130575415108267060" remote="130574871000000000" Dst="2" />
+<file name="._MinifyAdmin.php" server="ftp.eleanornina.com" local="130575415109557957" remote="130574871000000000" Dst="2" />
+<file name="._NewRelic.php" server="ftp.eleanornina.com" local="130575415115412121" remote="130574871000000000" Dst="2" />
+<file name="._NewRelicAdmin.php" server="ftp.eleanornina.com" local="130575415118154266" remote="130574871000000000" Dst="2" />
+<file name="._ObjectCache.php" server="ftp.eleanornina.com" local="130575415131036181" remote="130574871000000000" Dst="2" />
+<file name="._PgCache.php" server="ftp.eleanornina.com" local="130575415135949854" remote="130574871000000000" Dst="2" />
+<file name="._PgCacheAdmin.php" server="ftp.eleanornina.com" local="130575415138701607" remote="130574871000000000" Dst="2" />
+<file name="._TotalCache.php" server="ftp.eleanornina.com" local="130575415140272744" remote="130574871000000000" Dst="2" />
+<file name="._TotalCacheAdmin.php" server="ftp.eleanornina.com" local="130575415145126200" remote="130574871000000000" Dst="2" />
+<file name="._Varnish.php" server="ftp.eleanornina.com" local="130575415147858118" remote="130574871000000000" Dst="2" />
+<file name="._index.html" server="ftp.eleanornina.com" local="130575415149068976" remote="130574871000000000" Dst="2" />
+<file name="BrowserCache.php" server="ftp.eleanornina.com" local="130602275664248935" remote="130590268800000000" Dst="1" />
+<file name="Cdn.php" server="ftp.eleanornina.com" local="130602275692218546" remote="130590268800000000" Dst="1" />
+<file name="CdnAdmin.php" server="ftp.eleanornina.com" local="130602275691195496" remote="130590268800000000" Dst="1" />
+<file name="CdnCache.php" server="ftp.eleanornina.com" local="130602275748923428" remote="130590268800000000" Dst="1" />
+<file name="CdnCommon.php" server="ftp.eleanornina.com" local="130602275704592175" remote="130590268800000000" Dst="1" />
+<file name="CloudFlare.php" server="ftp.eleanornina.com" local="130575415169999787" remote="130574871000000000" Dst="2" />
+<file name="CloudFlareAdmin.php" server="ftp.eleanornina.com" local="130575415172861817" remote="130574871000000000" Dst="2" />
+<file name="DbCache.php" server="ftp.eleanornina.com" local="130602275711734907" remote="130590268800000000" Dst="1" />
+<file name="ExtensionsAdmin.php" server="ftp.eleanornina.com" local="130602275718483405" remote="130590268800000000" Dst="1" />
+<file name="MinifyAdmin.php" server="ftp.eleanornina.com" local="130602275746851962" remote="130590268800000000" Dst="1" />
+<file name="NewRelic.php" server="ftp.eleanornina.com" local="130602275747982764" remote="130590268800000000" Dst="1" />
+<file name="NewRelicAdmin.php" server="ftp.eleanornina.com" local="130602275755463836" remote="130590268800000000" Dst="1" />
+<file name="ObjectCache.php" server="ftp.eleanornina.com" local="130602275765457321" remote="130590268800000000" Dst="1" />
+<file name="PgCache.php" server="ftp.eleanornina.com" local="130602275763368336" remote="130590268800000000" Dst="1" />
+<file name="PgCacheAdmin.php" server="ftp.eleanornina.com" local="130602275764412628" remote="130590268800000000" Dst="1" />
+<file name="TotalCache.php" server="ftp.eleanornina.com" local="130602275787150525" remote="130590268800000000" Dst="1" />
+<file name="TotalCacheAdmin.php" server="ftp.eleanornina.com" local="130602275772935292" remote="130590268800000000" Dst="1" />
+<file name="Varnish.php" server="ftp.eleanornina.com" local="130602275786044026" remote="130590268800000000" Dst="1" />
+<file name="index.html" server="ftp.eleanornina.com" local="130602275772935292" remote="130590268800000000" Dst="1" />
+<file name="Minify.php" server="ftp.eleanornina.com" local="130602275723803445" remote="130590268800000000" Dst="1" />
+<file name="DefaultSettings.php" server="ftp.eleanornina.com" local="130602275712758074" remote="130590268800000000" Dst="1" />
+<file name="NotificationsAdmin.php" server="ftp.eleanornina.com" local="130602275756407678" remote="130590268800000000" Dst="1" />
+</dwsync>

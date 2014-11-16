@@ -1,0 +1,821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Forms & Fields\n"
+"POT-Creation-Date: 2014-01-23 19:16+0100\n"
+"PO-Revision-Date: 2014-01-23 19:17+0100\n"
+"Last-Translator: Bart Pluijms <info@geev.nl>\n"
+"Language-Team: Geev vormgeeving <wordpress@geev.nl>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../woocommerce-fieldsets.php:173
+msgid ""
+"WooCommerce is not active. Please activate WooCommerce before using "
+"WooCommerce Forms & Fields plugin."
+msgstr ""
+"WooCommerce is niet actief. Activeer WooCommerce voordat u WooCommerce Forms "
+"& Fields gebruikt."
+
+#: ../woocommerce-fieldsets.php:184
+msgid ""
+"We made some important changes to our WooCommerce Forms & Fields. Please "
+"refresh your WooCommerce Forms & Fields settings."
+msgstr ""
+"We hebben een aantal belangrijke wijzigingen gedaan aan WooCommerce Forms & "
+"Fields. Controleer en update a.u.b. je plugin instellingen."
+
+#: ../woocommerce-fieldsets.php:189
+#, php-format
+msgid ""
+"%s to get updates for your Geev plugins. After activation, please refresh "
+"your WooCommerce Forms & Fields settings."
+msgstr ""
+"%s om updates te krijgen van Geev plugins. Vernieuw aub de WooCommerce Forms "
+"& Fields instellingen na activering."
+
+#: ../woocommerce-fieldsets.php:189
+msgid "Install the Geev Updater plugin"
+msgstr "Installeer de Geev Updater plugin"
+
+#: ../admin/settings.php:13 ../classes/wooaoi-fieldsets-table.php:95
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten om deze pagina te bekijken."
+
+#: ../admin/settings.php:27
+msgid "Account username"
+msgstr "Account gebruikersnaam"
+
+#: ../admin/settings.php:28
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: ../admin/settings.php:32 ../admin/settings.php:38
+msgid "Account password"
+msgstr "Account wachtwoord"
+
+#: ../admin/settings.php:33 ../admin/settings.php:39
+#: ../classes/WooFields.php:163
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: ../admin/settings.php:48
+msgid "Order Notes"
+msgstr "Opmerkingen"
+
+#: ../admin/settings.php:49
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr "Opmerkingen over uw bestelling, bijvoorbeeld over verzending."
+
+#: ../admin/settings.php:71 ../admin/settings.php:121
+#: ../admin/settings.php:172 ../admin/settings.php:223
+#, php-format
+msgid ""
+"This fieldset overwrites the default WooCommerce %s checkout fields. Please "
+"use it at your own risks! You can always disable this fieldset by unchecking "
+"the setting under General settings."
+msgstr ""
+"Deze fieldset overschrijft de standaard WooCommerce %s checkout velden. "
+"Gebruik is op eigen risico! Je kan deze fieldset altijd uitschakelen door de "
+"instelling te verwijderen onder Instellingen."
+
+#: ../admin/settings.php:71 ../admin/settings.php:121
+#: ../admin/settings.php:172
+msgid "account"
+msgstr "account"
+
+#: ../admin/settings.php:71 ../admin/settings.php:121
+msgid ""
+"Note: \n"
+"  1. You can't change the name of core fields\n"
+"  2. You can't change the type of special core fields (country & state)\n"
+"  3. Fields which change dynamically based on the chosen country of the user "
+"(address 1, address 2, city, state, postcode) cannot have custom position & "
+"validation rules"
+msgstr ""
+"Opmerking:\n"
+"  1. Je kan de naam van standaard velden niet aanpassen\n"
+"  2. Je kan het type van speciale standaard velden (land & provincie) niet "
+"aanpassen\n"
+"  3. Velden welke dynamisch geladen worden gebaseerd op het land van de "
+"klant (adres, postcode, plaats, provincie) kunnen geen aangepaste positie of "
+"validatie regels hebben"
+
+#: ../admin/settings.php:172
+msgid ""
+"Note: \n"
+"  1. You can't change the name and type of core fields\n"
+"  2. All custom fields are only shown when a user is not logged in and "
+"account creation during checkout is enabled."
+msgstr ""
+"Opmerking:\n"
+"  1. Je kan de naam van standaard velden niet aanpassen\n"
+"  2. Aangepaste velden worden alleen getoond wanneer een klant niet is "
+"ingelogd en het aanmaken van een account tijdens afrekenen mogelijk is."
+
+#: ../admin/settings.php:223
+msgid "order"
+msgstr "bestelling"
+
+#: ../admin/settings.php:224
+msgid "Note: Customer notes must be enabled to show this section."
+msgstr "Opmerking: Klant opmerkingen moeten geactiveerd zijn voor deze sectie"
+
+#: ../admin/settings.php:271 ../inc/funct.php:541 ../inc/funct.php:542
+msgid "WooCommerce Forms & Fields"
+msgstr "WooCommerce Forms & Fields"
+
+#: ../admin/settings.php:274
+msgid "Your settings have been saved."
+msgstr "Je instellingen zijn bewaard."
+
+#: ../admin/settings.php:282
+msgid "Create Fieldsets"
+msgstr "Alle fieldsets"
+
+#: ../admin/settings.php:283
+msgid "Checkout"
+msgstr "Afrekenen"
+
+#: ../admin/settings.php:284 ../admin/settings.php:496
+msgid "Thank you page"
+msgstr "Bedanktpagina"
+
+#: ../admin/settings.php:285 ../admin/settings.php:585
+msgid "Order overview page"
+msgstr "Bestel overzichtspagina"
+
+#: ../admin/settings.php:286
+msgid "Order Detail page"
+msgstr "Bestel detailpagina"
+
+#: ../admin/settings.php:287 ../admin/settings.php:676
+msgid "General settings"
+msgstr "Algemeen"
+
+#: ../admin/settings.php:292
+msgid "Create fieldset"
+msgstr "Maak nieuw fieldset"
+
+#: ../admin/settings.php:312
+msgid "WooCommerce checkout"
+msgstr "WooCommerce afrekenen"
+
+#: ../admin/settings.php:317
+msgid "Custom fieldset:"
+msgstr "Aangepast fieldset:"
+
+#: ../admin/settings.php:323 ../admin/settings.php:461
+#: ../admin/settings.php:551 ../admin/settings.php:642 ../inc/funct.php:36
+#: ../inc/funct.php:59
+msgid "No fieldset"
+msgstr "Geen fieldset"
+
+#: ../admin/settings.php:324 ../admin/settings.php:462
+#: ../admin/settings.php:552
+msgid "Product specific fieldsets"
+msgstr "Product specifieke fieldsets"
+
+#: ../admin/settings.php:329 ../admin/settings.php:467
+#: ../admin/settings.php:557 ../admin/settings.php:646 ../inc/funct.php:41
+#: ../inc/funct.php:64
+msgid "Custom fieldsets"
+msgstr "Aangepaste fieldsets"
+
+#: ../admin/settings.php:341 ../admin/settings.php:479
+#: ../admin/settings.php:569 ../admin/settings.php:658
+#, php-format
+msgid "Which fieldsets do you want to show on %s?"
+msgstr "Welke fieldsets wil je tonen op %s?"
+
+#: ../admin/settings.php:341 ../admin/settings.php:506
+#: ../admin/settings.php:538 ../admin/settings.php:569
+msgid "the order thank you page"
+msgstr "de bedanktpagina"
+
+#: ../admin/settings.php:346
+msgid ""
+"Some plugins may stop working after you overwrite the default checkout "
+"fields with your own. If you use below settings, please be aware of the "
+"risks. The developer of this plugin is never responsible for problems which "
+"are caused by this function, so make sure you've tested it on a development "
+"environment first!"
+msgstr ""
+"Sommige plugins zullen niet meer werken wanneer je de standaard "
+"afrekenvelden overschrijft. Gebruik onderstaande instellingen op je eigen "
+"risico. De ontwikkelaar van WooCommerce Forms & Fields is nooit "
+"verantwoordelijk voor problemen welke worden veroorzaakt door het gebruik "
+"van deze functie. Probeer onderstaande instellingen eerst op een "
+"testomgeving!"
+
+#: ../admin/settings.php:350
+msgid "Overwrite billing fields:"
+msgstr "Overschrijf factuurvelden:"
+
+#: ../admin/settings.php:355
+msgid "Yes, I really want to overwrite the default WooCommerce billing fields."
+msgstr ""
+"Ja, ik weet zeker dat ik de standaard WooCommerce factuurvelden wil "
+"overschrijven."
+
+#: ../admin/settings.php:364
+msgid "Overwrite shipping fields:"
+msgstr "Overschrijf verzendvelden:"
+
+#: ../admin/settings.php:369
+msgid ""
+"Yes, I really want to overwrite the default WooCommerce shipping fields."
+msgstr ""
+"Ja, ik weet zeker dat ik de standaard WooCommerce verzendvelden wil "
+"overschrijven."
+
+#: ../admin/settings.php:375
+msgid "Overwrite account fields:"
+msgstr "Overschrijf account velden:"
+
+#: ../admin/settings.php:380
+msgid "Yes, I really want to overwrite the default WooCommerce account fields."
+msgstr ""
+"Ja, ik weet zeker dat ik de standaard WooCommerce accountvelden wil "
+"overschrijven."
+
+#: ../admin/settings.php:386
+msgid "Overwrite order note section:"
+msgstr "Overschrijft opmerkingen sectie:"
+
+#: ../admin/settings.php:391
+msgid ""
+"Yes, I really want to overwrite the default WooCommerce order note section."
+msgstr ""
+"Ja, ik weet zeker dat ik de standaard WooCommerce bestelopmerking sectie wil "
+"overschrijven."
+
+#: ../admin/settings.php:397 ../admin/settings.php:486
+#: ../admin/settings.php:575 ../admin/settings.php:666
+#: ../admin/settings.php:721
+msgid "Save settings"
+msgstr "Bewaar instellingen"
+
+#: ../admin/settings.php:407
+msgid "Order detail page"
+msgstr "Bestel detailpagina"
+
+#: ../admin/settings.php:413 ../admin/settings.php:501
+#: ../admin/settings.php:591
+msgid "Show description:"
+msgstr "Toon omschrijving:"
+
+#: ../admin/settings.php:418 ../admin/settings.php:506
+#: ../admin/settings.php:596
+#, php-format
+msgid "Show description on %s."
+msgstr "Toon omschrijving op %s."
+
+#: ../admin/settings.php:418 ../admin/settings.php:450
+#: ../admin/settings.php:479
+msgid "the order detail page"
+msgstr "de bestel detailpagina"
+
+#: ../admin/settings.php:424 ../admin/settings.php:512
+#: ../admin/settings.php:602
+msgid "Description title:"
+msgstr "Titel omschrijving:"
+
+#: ../admin/settings.php:427 ../admin/settings.php:605
+msgid "Additional information"
+msgstr "Overige informatie"
+
+#: ../admin/settings.php:432 ../admin/settings.php:520
+#: ../admin/settings.php:610
+msgid "Description text"
+msgstr "Omschrijvingstekst"
+
+#: ../admin/settings.php:438 ../admin/settings.php:526
+msgid "To complete your order we need additional information."
+msgstr "Om je bestelling te kunnen voltooien hebben we extra informatie nodig."
+
+#: ../admin/settings.php:439
+msgid "Please fill in details below."
+msgstr "Vul a.u.b. onderstaande informatie in."
+
+#: ../admin/settings.php:450 ../admin/settings.php:538
+#: ../admin/settings.php:630
+#, php-format
+msgid "Which text do you want to show on %s?"
+msgstr "Welke tekst wil je tonen op de %s?"
+
+#: ../admin/settings.php:456 ../admin/settings.php:545
+#: ../admin/settings.php:636
+msgid "Show fieldset:"
+msgstr "Toon fieldset:"
+
+#: ../admin/settings.php:515
+msgid "Add additional information"
+msgstr "Extra informatie"
+
+#: ../admin/settings.php:527
+msgid ""
+"Please go to the {{link}}order detail page{{/link}} to add the information "
+"to complete your order."
+msgstr ""
+"Ga a.u.b. naar de {{link}}bestel detailpagina{{/link}} om extra informatie "
+"aan te leveren over je bestelling."
+
+#: ../admin/settings.php:539
+#, php-format
+msgid "Use %s and %s to insert %s inside your description."
+msgstr "Gebruik %s en %s om %s toe te voegen in je omschrijving."
+
+#: ../admin/settings.php:539
+msgid "a link to the order detail page"
+msgstr "een link naar de bestel detailpagina"
+
+#: ../admin/settings.php:596 ../admin/settings.php:630
+#: ../admin/settings.php:658
+msgid "the order overview page"
+msgstr "de bestel overzichtspagina"
+
+#: ../admin/settings.php:619
+msgid "We want to know who you are. Please provide us more information."
+msgstr "We willen weten wie je bent. Lever a.u.b. extra informatie aan."
+
+#: ../admin/settings.php:659
+msgid ""
+"Note: Because the order overview page is not connected to a specific order, "
+"the data will be saved to the user profile."
+msgstr ""
+"Opmerking: omdat de bestel overzichtspagina niet is gekoppeld aan een "
+"specifieke bestelling worden de gegevens opgeslagen in het gebruikersaccount."
+
+#: ../admin/settings.php:682
+msgid "Description position:"
+msgstr "Positie omschrijving:"
+
+#: ../admin/settings.php:687
+msgid "Before field"
+msgstr "Voor veld"
+
+#: ../admin/settings.php:688
+msgid "After field"
+msgstr "Na veld"
+
+#: ../admin/settings.php:692
+msgid "Where do you want to show the field description?"
+msgstr "Waar wil je de veld omschrijving tonen?"
+
+#: ../admin/settings.php:699
+msgid "Add to email:"
+msgstr "Toevoegen aan e-mail:"
+
+#: ../admin/settings.php:704
+msgid "Add custom fields to customer emails."
+msgstr "Voeg aangepaste velden toe aan klant e-mails."
+
+#: ../admin/settings.php:710
+msgid "Add to order page:"
+msgstr "Toevoegen aan order pagina:"
+
+#: ../admin/settings.php:715
+msgid "Add custom fields to customer order detail page."
+msgstr "Voeg aangepaste velden toe aan de bestel overzichtspagina."
+
+#: ../admin/settings.php:735
+msgid "Need Support?"
+msgstr "Hulp nodig?"
+
+#: ../admin/settings.php:737
+msgid "If you are having problems with this plugin, please contact us via our "
+msgstr "Problemen met deze plugin? Neem contact met ons op via onze"
+
+#: ../admin/settings.php:738
+msgid "We will try to support you as soon as possible, mostly within 24 hours."
+msgstr ""
+"We doen onze best om je zo snel mogelijk te helpen met je vragen, meestal "
+"binnen 24 uur."
+
+#: ../admin/settings.php:739
+msgid ""
+"On our website you will also find some basic support information for this "
+"plugin."
+msgstr "Op onze website vind je ook basis help informatie voor deze plugin."
+
+#: ../admin/settings.php:743
+msgid "Show Your Love"
+msgstr "Show Your Love"
+
+#: ../admin/settings.php:745
+#, php-format
+msgid ""
+"This plugin is developed by %s, a Dutch graphic design and webdevelopment "
+"company."
+msgstr ""
+"Deze plugin is ontwikkeld door %s, een Nederlands grafisch ontwerpbureau."
+
+#: ../admin/settings.php:746
+msgid ""
+"If you are happy with this plugin please show your love by liking us on "
+"Facebook"
+msgstr "Blij met deze plugin? Like ons op Facebook!"
+
+#: ../admin/settings.php:748
+msgid "Or"
+msgstr "Of"
+
+#: ../admin/settings.php:750
+msgid "Blog about it & link to the plugin page"
+msgstr "Schrijf een blog en link naar de plugin pagina"
+
+#: ../classes/wooaoi-fieldsets-table.php:14
+#: ../classes/wooaoi-fieldsets-table.php:47
+msgid "Edit set"
+msgstr "Bewerk set"
+
+#: ../classes/wooaoi-fieldsets-table.php:14
+msgid "Remove entire set"
+msgstr "Verwijder set"
+
+#: ../classes/wooaoi-fieldsets-table.php:24
+msgid "fieldset"
+msgstr "fieldset"
+
+#: ../classes/wooaoi-fieldsets-table.php:25
+msgid "fieldsets"
+msgstr "fieldsets"
+
+#: ../classes/wooaoi-fieldsets-table.php:48
+msgid "Delete set"
+msgstr "Verwijder set"
+
+#: ../classes/wooaoi-fieldsets-table.php:81 ../inc/funct.php:732
+msgid "Name"
+msgstr "Naam"
+
+#: ../classes/wooaoi-fieldsets-table.php:82
+msgid "# Fields"
+msgstr "# Velden"
+
+#: ../classes/wooaoi-fieldsets-table.php:83 ../classes/WooFields.php:272
+msgid "Actions"
+msgstr "Acties"
+
+#: ../classes/WooFields.php:98
+msgid "Field name"
+msgstr "Veldnaam"
+
+#: ../classes/WooFields.php:101
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: ../classes/WooFields.php:105 ../classes/WooFields.php:115
+msgid "Options"
+msgstr "Opties"
+
+#: ../classes/WooFields.php:119
+msgid "Required field"
+msgstr "Verplicht veld"
+
+#: ../classes/WooFields.php:122 ../inc/funct.php:738
+msgid "Description"
+msgstr "Omschrijving"
+
+#: ../classes/WooFields.php:125
+msgid "Price"
+msgstr "Prijs"
+
+#: ../classes/WooFields.php:128 ../inc/funct.php:740
+msgid "Clear row"
+msgstr "Clear rij"
+
+#: ../classes/WooFields.php:132 ../inc/funct.php:737
+msgid "Position"
+msgstr "Positie"
+
+#: ../classes/WooFields.php:132
+msgid "Full width"
+msgstr "Volledige breedte"
+
+#: ../classes/WooFields.php:132
+msgid "Left"
+msgstr "Links"
+
+#: ../classes/WooFields.php:132
+msgid "Right"
+msgstr "Rechts"
+
+#: ../classes/WooFields.php:141
+msgid "Multiple select"
+msgstr "Meerdere opties"
+
+#: ../classes/WooFields.php:144 ../classes/WooFields.php:161
+#: ../classes/WooFields.php:238
+msgid "Text"
+msgstr "Tekst"
+
+#: ../classes/WooFields.php:162
+msgid "Textarea"
+msgstr "Groot tekstgebied"
+
+#: ../classes/WooFields.php:168
+msgid "Select"
+msgstr "Select"
+
+#: ../classes/WooFields.php:169
+msgid "Radio buttons"
+msgstr "Radio buttons"
+
+#: ../classes/WooFields.php:170
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: ../classes/WooFields.php:173
+msgid "Multi-Select"
+msgstr "Multi select"
+
+#: ../classes/WooFields.php:181
+msgid "Submit button"
+msgstr "Verzendknop"
+
+#: ../classes/WooFields.php:183
+msgid "Basic Form Fields"
+msgstr "Standaard velden"
+
+#: ../classes/WooFields.php:199
+msgid "Password repeat"
+msgstr "Wachtwoord (herhalen)"
+
+#: ../classes/WooFields.php:200
+msgid "E-mail address"
+msgstr "E-mail adres"
+
+#: ../classes/WooFields.php:204
+msgid "Date picker"
+msgstr "Datum kiezer"
+
+#: ../classes/WooFields.php:205
+msgid "Color picker"
+msgstr "Kleur kiezer"
+
+#: ../classes/WooFields.php:206
+msgid "*"
+msgstr "x"
+
+#: ../classes/WooFields.php:206
+msgid "/"
+msgstr "/"
+
+#: ../classes/WooFields.php:206
+msgid "+"
+msgstr "+"
+
+#: ../classes/WooFields.php:206
+msgid "-"
+msgstr "-"
+
+#: ../classes/WooFields.php:208
+msgid "Price adjust"
+msgstr "Prijs aanpassen"
+
+#: ../classes/WooFields.php:210
+msgid "Special Fields"
+msgstr "Speciale velden"
+
+#: ../classes/WooFields.php:229
+msgid "H1"
+msgstr "Kop 1"
+
+#: ../classes/WooFields.php:229
+msgid "H2"
+msgstr "Kop 2"
+
+#: ../classes/WooFields.php:229
+msgid "H3"
+msgstr "Kop 3"
+
+#: ../classes/WooFields.php:229
+msgid "H4"
+msgstr "Kop 4"
+
+#: ../classes/WooFields.php:229
+msgid "H5"
+msgstr "Kop 5"
+
+#: ../classes/WooFields.php:229
+msgid "H6"
+msgstr "Kop 6"
+
+#: ../classes/WooFields.php:231
+msgid "Heading"
+msgstr "Titel"
+
+#: ../classes/WooFields.php:236
+msgid "Paragraph"
+msgstr "Paragraaf"
+
+#: ../classes/WooFields.php:236
+msgid "DIV"
+msgstr "DIV"
+
+#: ../classes/WooFields.php:236
+msgid "Address"
+msgstr "Adres"
+
+#: ../classes/WooFields.php:236
+msgid "Quote"
+msgstr "Quote"
+
+#: ../classes/WooFields.php:236
+msgid "Code"
+msgstr "Code"
+
+#: ../classes/WooFields.php:236
+msgid "Predefined"
+msgstr "Predefined"
+
+#: ../classes/WooFields.php:236
+msgid "Small"
+msgstr "Klein"
+
+#: ../classes/WooFields.php:240
+msgid "Texts"
+msgstr "Teksten"
+
+#: ../classes/WooFields.php:267
+msgid "Redirect URL"
+msgstr "Doorverwijzings URL"
+
+#: ../classes/WooFields.php:270
+msgid "Change order status"
+msgstr "Wijzig bestelstatus"
+
+#: ../classes/WooFields.php:290
+msgid "State"
+msgstr "Provincie"
+
+#: ../classes/WooFields.php:291
+msgid "Country"
+msgstr "Land"
+
+#: ../classes/WooFields.php:293
+msgid "Special Checkout fields"
+msgstr "Speciale checkout velden"
+
+#: ../inc/funct-checkout.php:106 ../inc/funct-checkout.php:121
+#: ../inc/funct-checkout.php:136 ../inc/funct-checkout.php:149
+#, php-format
+msgid "Please enter something into %s."
+msgstr "Vul a.u.b. iets in in %s."
+
+#: ../inc/funct-checkout.php:376 ../inc/funct-checkout.php:466
+msgid "Additional info"
+msgstr "Overige informatie"
+
+#: ../inc/funct-checkout.php:550 ../inc/funct-product.php:52
+#: ../inc/funct.php:415
+msgid "Passwords don't match."
+msgstr "Wachtwoorden zijn niet gelijk."
+
+#: ../inc/funct-checkout.php:555 ../inc/funct-product.php:58
+#, php-format
+msgid "%s is a required Field"
+msgstr "%s is een verplicht veld"
+
+#: ../inc/funct-fields.php:307
+msgid "Clear"
+msgstr "Clear"
+
+#: ../inc/funct-fields.php:307
+msgid "Default"
+msgstr "Standaard"
+
+#: ../inc/funct-fields.php:307
+msgid "Select Color"
+msgstr "Kies kleur"
+
+#: ../inc/funct-fields.php:351
+msgid "Passwords don't match"
+msgstr "Wachtwoorden zijn niet gelijk"
+
+#: ../inc/funct-userprofile.php:9
+msgid "WooCommerce Fieldsets - Additional information"
+msgstr "WooCommerce Forms & Fields - Overige informatie"
+
+#: ../inc/funct.php:9
+msgid "Fieldsets"
+msgstr "Fieldsets"
+
+#: ../inc/funct.php:18
+msgid "Fieldset"
+msgstr "Fieldset"
+
+#: ../inc/funct.php:33
+msgid "Order detail / Checkout fieldset:"
+msgstr "Bestel detail / checkout velden:"
+
+#: ../inc/funct.php:53
+msgid ""
+"Which fieldset do you want to show on the checkout page and order detail "
+"page?"
+msgstr ""
+"Welke fieldset wil je tonen op de checkout pagina en de order detail pagina?"
+
+#: ../inc/funct.php:56
+msgid "Product detail fieldset:"
+msgstr "Product detail fieldset:"
+
+#: ../inc/funct.php:76
+msgid ""
+"Which fieldset do you want to show on the product detail page (before "
+"checkout)?"
+msgstr ""
+"Welke fieldset wil je tonen op de product detail pagina (voor afrekenen)?"
+
+#: ../inc/funct.php:298
+msgid "Data sent successfully"
+msgstr "Gegevens succesvol verzonden"
+
+#: ../inc/funct.php:300
+msgid "We've found some errors while sending data, please check your data"
+msgstr "We hebben enkele fouten gevonden, controleer a.u.b. uw gegevens"
+
+#: ../inc/funct.php:420
+msgid "Please enter required data."
+msgstr "Vul a.u.b. alle verplichte gegevens in."
+
+#: ../inc/funct.php:543 ../inc/funct.php:544
+msgid "Add new fieldset"
+msgstr "Nieuwe fieldset toevoegen"
+
+#: ../inc/funct.php:545 ../inc/funct.php:546
+msgid "Edit fieldset"
+msgstr "Bewerk fieldset"
+
+#: ../inc/funct.php:547
+msgid "New fieldset"
+msgstr "Nieuwe fieldset"
+
+#: ../inc/funct.php:566
+msgid "Fieldset settings"
+msgstr "Fieldset instellingen"
+
+#: ../inc/funct.php:571
+msgid "Fields within this set"
+msgstr "Velden in deze set"
+
+#: ../inc/funct.php:576
+msgid "Fieldset status"
+msgstr "Fieldset status"
+
+#: ../inc/funct.php:598
+msgid "Description for this set"
+msgstr "Omschrijving van deze set"
+
+#: ../inc/funct.php:625
+msgid "Show set on order status:"
+msgstr "Toon set met bestelstatus:"
+
+#: ../inc/funct.php:641
+msgid "Only available on order detail page"
+msgstr "Alleen beschikbaar op de bestel detailpagina"
+
+#: ../inc/funct.php:733
+msgid "Field type"
+msgstr "Veld type"
+
+#: ../inc/funct.php:734
+msgid "Label"
+msgstr "Label"
+
+#: ../inc/funct.php:735
+msgid "Field settings"
+msgstr "Veld instellingen"
+
+#: ../inc/funct.php:736
+msgid "Placeholder / Options"
+msgstr "Placeholder / options"
+
+#: ../inc/funct.php:739
+msgid "Required"
+msgstr "Verplicht"
+
+#: ../inc/funct.php:922
+msgid "+ Add new field"
+msgstr "+ Nieuw veld toevoegen"
+
+#: ../inc/funct.php:1067
+msgid "Invalid email address."
+msgstr "Ongeldig e-mail adres."
+
+#: ../inc/funct.php:1082
+msgid "Please enter a valid (positive) number."
+msgstr "Vul a.u.b. een geldig (positief) nummer in."
+
+#~ msgid "Rate the plugin 5&#9733; on WordPress.org"
+#~ msgstr "Waardeer deze plgu"
+
+#~ msgid "WooCommerce Fieldsets"
+#~ msgstr "WooCommerce Fieldsets"

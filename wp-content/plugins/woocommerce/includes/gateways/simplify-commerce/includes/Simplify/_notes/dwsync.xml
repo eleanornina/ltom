@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessToken.php" server="ftp.eleanornina.com" local="130606485650271323" remote="130603761000000000" Dst="1" />
+<file name="Authentication.php" server="ftp.eleanornina.com" local="130606485651652309" remote="130603761000000000" Dst="1" />
+<file name="CardToken.php" server="ftp.eleanornina.com" local="130606485657242267" remote="130603761000000000" Dst="1" />
+<file name="Chargeback.php" server="ftp.eleanornina.com" local="130606485660338408" remote="130603761000000000" Dst="1" />
+<file name="Constants.php" server="ftp.eleanornina.com" local="130606485661579285" remote="130603761000000000" Dst="1" />
+<file name="Coupon.php" server="ftp.eleanornina.com" local="130606485667467475" remote="130603761000000000" Dst="1" />
+<file name="Customer.php" server="ftp.eleanornina.com" local="130606485692542320" remote="130603761000000000" Dst="1" />
+<file name="Deposit.php" server="ftp.eleanornina.com" local="130606485671614918" remote="130603761000000000" Dst="1" />
+<file name="Event.php" server="ftp.eleanornina.com" local="130606485687635720" remote="130603761000000000" Dst="1" />
+<file name="Exceptions.php" server="ftp.eleanornina.com" local="130606485695718143" remote="130603761000000000" Dst="1" />
+<file name="Http.php" server="ftp.eleanornina.com" local="130606485701495056" remote="130603761000000000" Dst="1" />
+<file name="Invoice.php" server="ftp.eleanornina.com" local="130606485703388384" remote="130603761000000000" Dst="1" />
+<file name="InvoiceItem.php" server="ftp.eleanornina.com" local="130606485703398407" remote="130603761000000000" Dst="1" />
+<file name="Object.php" server="ftp.eleanornina.com" local="130606485724886729" remote="130603761000000000" Dst="1" />
+<file name="Payment.php" server="ftp.eleanornina.com" local="130606485724886729" remote="130603761000000000" Dst="1" />
+<file name="PaymentsApi.php" server="ftp.eleanornina.com" local="130606485725937451" remote="130603761000000000" Dst="1" />
+<file name="Plan.php" server="ftp.eleanornina.com" local="130606485735047664" remote="130603761000000000" Dst="1" />
+<file name="Refund.php" server="ftp.eleanornina.com" local="130606485735057503" remote="130603761000000000" Dst="1" />
+<file name="ResourceList.php" server="ftp.eleanornina.com" local="130606485736058175" remote="130603761000000000" Dst="1" />
+<file name="Subscription.php" server="ftp.eleanornina.com" local="130606485745320013" remote="130603761000000000" Dst="1" />
+<file name="Webhook.php" server="ftp.eleanornina.com" local="130606485745420089" remote="130603761000000000" Dst="1" />
+</dwsync>

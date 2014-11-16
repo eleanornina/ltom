@@ -1,0 +1,39 @@
+.recent-portfolio .icon-minus-sign {
+  top: -35px;
+}
+.main-sidebar .sidebar-posts .sidebar-post-image {
+  width: 44px;
+  height: 44px;
+}
+.main-sidebar .sidebar-posts .sidebar-post-image img {
+  width: 44px;
+  height: 44px;
+}
+.bg-section {
+  margin-left: -520px;
+  padding: 2.5em 520px;
+}
+.action-icon.normal:after {
+  width: 0;
+  height: 0;
+  display: none;
+}
+.main-sidebar .sidebar-posts .sidebar-post-image .icon-minus-sign {
+  top: 16px;
+  left: 16px;
+}
+.main-menu ul > li ul {
+  border-left: 1px solid #e5e5e5;
+  border-right: 1px solid #e5e5e5;
+}
+.recent-post .post-title,
+#related-posts .slides li .related-post-title,
+.portfolio-grid-alt-content {
+  filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0, startColorstr='#4c000000', endColorstr='#4c000000');
+  /* IE */
+
+}
+#woocommerce-container .woocomerce-product input.qty,
+#woocommerce-container .shopping-cart-table input.qty {
+  line-height: 43px;
+}

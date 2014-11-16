@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-json-api-check-capabilities-endpoint.php" server="ftp.eleanornina.com" local="130606479991435219" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-core-endpoint.php" server="ftp.eleanornina.com" local="130606479992807619" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-core-modify-endpoint.php" server="ftp.eleanornina.com" local="130606479998466205" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-endpoint.php" server="ftp.eleanornina.com" local="130606480001552109" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-modules-endpoint.php" server="ftp.eleanornina.com" local="130606480002963783" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-modules-get-endpoint.php" server="ftp.eleanornina.com" local="130606480019618114" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-modules-list-endpoint.php" server="ftp.eleanornina.com" local="130606480035351246" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-modules-modify-endpoint.php" server="ftp.eleanornina.com" local="130606480036742228" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-plugins-endpoint.php" server="ftp.eleanornina.com" local="130606480042827700" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-plugins-delete-endpoint.php" server="ftp.eleanornina.com" local="130606480045749773" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-plugins-get-endpoint.php" server="ftp.eleanornina.com" local="130606480048631821" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-plugins-install-endpoint.php" server="ftp.eleanornina.com" local="130606480050002798" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-plugins-list-endpoint.php" server="ftp.eleanornina.com" local="130606480055766900" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-plugins-modify-endpoint.php" server="ftp.eleanornina.com" local="130606480058899115" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-themes-active-endpoint.php" server="ftp.eleanornina.com" local="130606480066006530" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-themes-endpoint.php" server="ftp.eleanornina.com" local="130606480066086583" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-themes-get-endpoint.php" server="ftp.eleanornina.com" local="130606480067040188" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-themes-list-endpoint.php" server="ftp.eleanornina.com" local="130606480075254785" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-themes-modify-endpoint.php" server="ftp.eleanornina.com" local="130606480077277307" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-json-api-updates-status-endpoint.php" server="ftp.eleanornina.com" local="130606480077337336" remote="130603761000000000" Dst="1" />
+<file name="json-api-jetpack-endpoints.php" server="ftp.eleanornina.com" local="130606480094985024" remote="130603761000000000" Dst="1" />
+</dwsync>

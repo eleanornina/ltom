@@ -1,0 +1,2537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinite\n"
+"POT-Creation-Date: 2013-12-16 01:10+0530\n"
+"PO-Revision-Date: 2013-12-16 01:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "404 Error"
+msgstr ""
+
+#: ../404.php:9
+msgid ""
+"The page you are looking for doesn't exist, please use the below search "
+"field to search the site."
+msgstr ""
+
+#: ../archive.php:32 ../blog-grid-full.php:42 ../blog-grid.php:42
+#: ../blog-medium.php:30 ../blog-normal.php:39 ../comments.php:18
+#: ../content-gallery.php:27 ../content.php:35 ../index.php:32
+#: ../single.php:36
+msgid "No Comments"
+msgstr ""
+
+#: ../archive.php:33 ../blog-grid-full.php:43 ../blog-grid.php:43
+#: ../blog-medium.php:31 ../blog-normal.php:40 ../content-gallery.php:28
+#: ../content.php:36 ../index.php:33 ../single.php:37
+msgid "1 Comment"
+msgstr ""
+
+#: ../archive.php:34 ../blog-grid-full.php:44 ../blog-grid.php:44
+#: ../blog-medium.php:32 ../blog-normal.php:41 ../comments.php:20
+#: ../content-gallery.php:29 ../content.php:37 ../index.php:34
+#: ../single.php:38
+msgid "% Comments"
+msgstr ""
+
+#: ../archive.php:47 ../index.php:47
+msgid "No posts were found!"
+msgstr ""
+
+#: ../comments.php:3
+msgid "You cannot access this file directly."
+msgstr ""
+
+#: ../comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view the comments."
+msgstr ""
+
+#: ../comments.php:19
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:51
+msgid "Name (required)"
+msgstr ""
+
+#: ../comments.php:52
+msgid "Email Address (required)"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Your Comment..."
+msgstr ""
+
+#: ../contact-us.php:11
+msgid "Please enter your name"
+msgstr ""
+
+#: ../contact-us.php:14
+msgid "Please enter a valid name"
+msgstr ""
+
+#: ../contact-us.php:19
+msgid "Please enter email address"
+msgstr ""
+
+#: ../contact-us.php:22
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: ../contact-us.php:27
+msgid "Please enter subject"
+msgstr ""
+
+#: ../contact-us.php:32
+msgid "Please enter message"
+msgstr ""
+
+#: ../contact-us.php:36
+msgid "Sorry, your nonce did not verify."
+msgstr ""
+
+#: ../contact-us.php:45
+msgid "Your message is successfully sent"
+msgstr ""
+
+#: ../content-gallery.php:8 ../content.php:16
+msgid "at"
+msgstr ""
+
+#: ../functions.php:165
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:227
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:261
+msgid "Your comment is awaiting moderation"
+msgstr ""
+
+#: ../functions.php:326
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:345
+msgid "404 - Page not Found"
+msgstr ""
+
+#: ../functions.php:346
+msgid "Search"
+msgstr ""
+
+#: ../header.php:97
+msgid "Open Menu"
+msgstr ""
+
+#: ../header.php:150
+msgid "Search results for: "
+msgstr ""
+
+#: ../header.php:197
+msgid "Shop"
+msgstr ""
+
+#: ../options.php:718
+msgid "General Settings"
+msgstr ""
+
+#: ../options.php:734
+msgid "Favicon"
+msgstr ""
+
+#: ../options.php:735
+msgid "The Favicon for the website, only .ico,.png or.jpg"
+msgstr ""
+
+#: ../options.php:742
+msgid "Resize Images"
+msgstr ""
+
+#: ../options.php:743
+msgid "<a href=\""
+msgstr ""
+
+#: ../options.php:754
+msgid "Show the Share post on social networks section in posts ?"
+msgstr ""
+
+#: ../options.php:755
+msgid ""
+"Do you want to show the Share on Social media section which allows the users "
+"to share the posts via their social networks"
+msgstr ""
+
+#: ../options.php:764
+msgid ""
+"Show the Share post on social networks section in Portfolio single page ?"
+msgstr ""
+
+#: ../options.php:765
+msgid ""
+"Do you want to show the Share on Social media section which allows the users "
+"to share the portfolio page ?"
+msgstr ""
+
+#: ../options.php:774
+msgid "Display Footer Widgets ?"
+msgstr ""
+
+#: ../options.php:775
+msgid "Do you want to show the footer widgets ?"
+msgstr ""
+
+#: ../options.php:785
+msgid "No. of columns for Footer Widgets"
+msgstr ""
+
+#: ../options.php:786
+msgid "Number of columns for the footer, which displays the widgets"
+msgstr ""
+
+#: ../options.php:795
+msgid "Display Copyright Information ?"
+msgstr ""
+
+#: ../options.php:796
+msgid "Do you want to show the Copyright Information ?"
+msgstr ""
+
+#: ../options.php:804
+msgid "Your Copyright Info"
+msgstr ""
+
+#: ../options.php:805
+msgid "Eg: &copy: infinite 2012 (HTML is allowed in here.)"
+msgstr ""
+
+#: ../options.php:812
+msgid "Call To Action"
+msgstr ""
+
+#: ../options.php:813
+msgid ""
+"Site Wide call to action text, this will be displayed in all the pages. You "
+"can use shortcodes & html as well. Eg: <h3>infinite is an amazing theme with "
+"lots of features. Buy it now  "
+msgstr ""
+
+#: ../options.php:821
+msgid "Your Analytics Code"
+msgstr ""
+
+#: ../options.php:822
+msgid ""
+"Enter your analytics tracking Code here (Google or anything else). It will "
+"automatically be added so you can track your visitors behavior. You have to "
+"add the script tags as well"
+msgstr ""
+
+#: ../options.php:830
+msgid "Custom CSS"
+msgstr ""
+
+#: ../options.php:831
+msgid ""
+"Just want to do some quick CSS changes? Enter them here, they will be "
+"applied to the theme.)"
+msgstr ""
+
+#: ../options.php:837
+msgid "Appearance"
+msgstr ""
+
+#: ../options.php:842
+msgid "Layout type - Boxed or Wide"
+msgstr ""
+
+#: ../options.php:843
+msgid "The layout type you want, choose either Boxed or Wide"
+msgstr ""
+
+#: ../options.php:849
+msgid "Wide"
+msgstr ""
+
+#: ../options.php:850
+msgid "Boxed"
+msgstr ""
+
+#: ../options.php:855
+msgid "Enable Responsiveness ?"
+msgstr ""
+
+#: ../options.php:856
+msgid "Do you want the website to be responsive ?"
+msgstr ""
+
+#: ../options.php:862 ../options.php:974 ../options.php:986
+#: ../options.php:1006
+msgid "Yes"
+msgstr ""
+
+#: ../options.php:863 ../options.php:975 ../options.php:987
+#: ../options.php:1007
+msgid "No"
+msgstr ""
+
+#: ../options.php:867
+msgid "Max Width of the Website content"
+msgstr ""
+
+#: ../options.php:868
+msgid ""
+"The max width of the website content (This includes the main column & the "
+"sidebar)"
+msgstr ""
+
+#: ../options.php:874
+msgid "1170 Pixels"
+msgstr ""
+
+#: ../options.php:875
+msgid "940 Pixels"
+msgstr ""
+
+#: ../options.php:893
+msgid "Portfolio Single Page Style"
+msgstr ""
+
+#: ../options.php:894
+msgid ""
+"Do you want the Portfolio single page to show accordion type content or "
+"normal content ?"
+msgstr ""
+
+#: ../options.php:918
+msgid "Display sidebar in Portfolio Single page"
+msgstr ""
+
+#: ../options.php:919
+msgid "Do you want to show sidebar in the portfolio single page?"
+msgstr ""
+
+#: ../options.php:931
+msgid "Display Related works in Portfolio"
+msgstr ""
+
+#: ../options.php:932
+msgid "Do you want to show Related works in portfolio page?"
+msgstr ""
+
+#: ../options.php:943
+msgid "Header Layout"
+msgstr ""
+
+#: ../options.php:944
+msgid "Do you want a fixed header or a normal header ?"
+msgstr ""
+
+#: ../options.php:950 ../options.php:1198
+msgid "Fixed"
+msgstr ""
+
+#: ../options.php:951 ../options.php:1197
+#: ../framework/options-framework/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: ../options.php:955
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../options.php:956
+msgid "The sidebar position, left or right ?"
+msgstr ""
+
+#: ../options.php:962
+msgid "Right"
+msgstr ""
+
+#: ../options.php:963
+msgid "Left"
+msgstr ""
+
+#: ../options.php:967
+msgid "Enable Post Slideshows"
+msgstr ""
+
+#: ../options.php:968
+msgid "Do you want to enable slideshows in posts ?"
+msgstr ""
+
+#: ../options.php:979
+msgid "Show Related Posts in the single post page ?"
+msgstr ""
+
+#: ../options.php:980
+msgid "Do you want to show the realted posts slider in the single post page ?"
+msgstr ""
+
+#: ../options.php:991
+msgid "Maximum number of related posts"
+msgstr ""
+
+#: ../options.php:992
+msgid "Maximum number of related posts you want to show, default is 10"
+msgstr ""
+
+#: ../options.php:999
+msgid "Show author info on single post page ?"
+msgstr ""
+
+#: ../options.php:1000
+msgid "Do you want show the author info displayed in the single post page ?"
+msgstr ""
+
+#: ../options.php:1022
+msgid "Google Heading Font"
+msgstr ""
+
+#: ../options.php:1023
+msgid ""
+"Google Fonts for Headings, if you dont want to use google fonts select \"None"
+"\""
+msgstr ""
+
+#: ../options.php:1032
+msgid "Google Body Font"
+msgstr ""
+
+#: ../options.php:1033
+msgid ""
+"Google Fonts for Body, if you dont want to use google fonts select \"None\""
+msgstr ""
+
+#: ../options.php:1043
+msgid "Normal Heading Font Family"
+msgstr ""
+
+#: ../options.php:1044
+msgid ""
+"Choose this only if you dont want to use google fonts, this will only work "
+"when you choose the Google Heading font as \"None\""
+msgstr ""
+
+#: ../options.php:1053
+msgid "Normal Body Font Family"
+msgstr ""
+
+#: ../options.php:1054
+msgid ""
+"Choose this only if you dont want to use google fonts, this will only work "
+"when you choose the Google Body font as \"None\""
+msgstr ""
+
+#: ../options.php:1063
+msgid "Heading Font Size"
+msgstr ""
+
+#: ../options.php:1064
+msgid "The size of the heading fonts"
+msgstr ""
+
+#: ../options.php:1073
+msgid "Body Font Size"
+msgstr ""
+
+#: ../options.php:1074
+msgid "The size of the body fonts"
+msgstr ""
+
+#: ../options.php:1086
+msgid "Design"
+msgstr ""
+
+#: ../options.php:1154
+msgid "Title Background Image"
+msgstr ""
+
+#: ../options.php:1155
+msgid ""
+"Choose the Image for the title background, please select a really wide image "
+"with a max height of 58px"
+msgstr ""
+
+#: ../options.php:1183
+msgid "Page Background Image"
+msgstr ""
+
+#: ../options.php:1184
+msgid "Upload a custom image as the page background"
+msgstr ""
+
+#: ../options.php:1190
+msgid "Background Image Position"
+msgstr ""
+
+#: ../options.php:1191
+msgid ""
+"Do you want the background image to be fixed or should it be scrollable "
+"along with the content ?"
+msgstr ""
+
+#: ../options.php:1201
+msgid "Page Background Color"
+msgstr ""
+
+#: ../options.php:1202
+msgid ""
+"The page backgroud color, this will be displayed only if the image is lesser "
+"than the width of the screen and the image is set to no-repeat"
+msgstr ""
+
+#: ../options.php:1209
+msgid "Background Image Repeat"
+msgstr ""
+
+#: ../options.php:1210
+msgid ""
+"Do you want to repeat the background Image? Repeat will repeat it on both "
+"axis, Repeat-x will repeat on x axis and Repeat-y will repeat on y axis"
+msgstr ""
+
+#: ../options.php:1216 ../framework/options-framework/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: ../options.php:1217
+msgid "Repeat"
+msgstr ""
+
+#: ../options.php:1218
+msgid "Repeat-x"
+msgstr ""
+
+#: ../options.php:1219
+msgid "Repeat-y"
+msgstr ""
+
+#: ../options.php:1227
+msgid "Social Media"
+msgstr ""
+
+#: ../options.php:1232
+msgid "Facebook Link"
+msgstr ""
+
+#: ../options.php:1238
+msgid "Twitter Link"
+msgstr ""
+
+#: ../options.php:1245
+msgid "Google+ Link"
+msgstr ""
+
+#: ../options.php:1252
+msgid "Linkedin Link"
+msgstr ""
+
+#: ../options.php:1258
+msgid "Skype Link"
+msgstr ""
+
+#: ../options.php:1264
+msgid "Youtube Link"
+msgstr ""
+
+#: ../options.php:1270
+msgid "Flickr Link"
+msgstr ""
+
+#: ../options.php:1277
+msgid "Dribbble Link"
+msgstr ""
+
+#: ../options.php:1283
+msgid "Pinterest Link"
+msgstr ""
+
+#: ../options.php:1289
+msgid "Tumblr Link"
+msgstr ""
+
+#: ../options.php:1295
+msgid "Rss Link"
+msgstr ""
+
+#: ../options.php:1301
+msgid "Twitter API"
+msgstr ""
+
+#: ../options.php:1305
+msgid "Twitter Consumer Key"
+msgstr ""
+
+#: ../options.php:1312
+msgid "Twitter Consumer Secret"
+msgstr ""
+
+#: ../options.php:1319
+msgid "Twitter Access Token"
+msgstr ""
+
+#: ../options.php:1326
+msgid "Twitter Access Token Secret"
+msgstr ""
+
+#: ../page.php:36
+msgid "Edit"
+msgstr ""
+
+#: ../page.php:100 ../single-portfolio.php:243 ../single.php:183
+msgid "No Posts were found!"
+msgstr ""
+
+#: ../product-searchform.php:5
+msgid "Search for products"
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search ..."
+msgstr ""
+
+#: ../single-portfolio.php:93 ../woocommerce/config.php:402
+msgid "Description"
+msgstr ""
+
+#: ../single-portfolio.php:98 ../single-portfolio.php:139
+msgid "Client"
+msgstr ""
+
+#: ../single-portfolio.php:102 ../single-portfolio.php:148
+msgid "Tasks"
+msgstr ""
+
+#: ../single-portfolio.php:112 ../single-portfolio.php:157
+msgid "Skills"
+msgstr ""
+
+#: ../single-portfolio.php:121 ../single-portfolio.php:166
+#: ../framework/shortcodes/tinymce/config.php:707
+#: ../framework/shortcodes/tinymce/config.php:733
+msgid "Categories"
+msgstr ""
+
+#: ../single-portfolio.php:182
+msgid "Share this post on your social platform !"
+msgstr ""
+
+#: ../single-portfolio.php:198
+msgid "Related Works"
+msgstr ""
+
+#: ../single.php:113
+msgid ""
+"<div class=\"previous span6\"><i class=\"icon-chevron-left\"></i><div class="
+"\"text\">Previous Article</div> <h4>%title</h4></div>"
+msgstr ""
+
+#: ../single.php:114
+msgid ""
+"<div class=\"next span6\"><i class=\"icon-chevron-right\"></i><div class="
+"\"text\">Next Article</div> <h4>%title</h4></div>"
+msgstr ""
+
+#: ../bbpress/config.php:8
+msgid "Forum Sidebar (bbpress)"
+msgstr ""
+
+#: ../bbpress/config.php:9
+msgid "forum-sidebar"
+msgstr ""
+
+#: ../bbpress/config.php:10
+msgid "Sidebar for Forum Pages"
+msgstr ""
+
+#: ../bbpress/config.php:85
+msgid "BBPress"
+msgstr ""
+
+#: ../bbpress/config.php:139
+msgid "Recently Active"
+msgstr ""
+
+#: ../bbpress/form-forum.php:35 ../bbpress/form-topic.php:41
+#, php-format
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+#, php-format
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-forum.php:37
+msgid "Create New Forum"
+msgstr ""
+
+#: ../bbpress/form-forum.php:47
+msgid ""
+"This forum is closed to new content, however your account still allows you "
+"to do so."
+msgstr ""
+
+#: ../bbpress/form-forum.php:55 ../bbpress/form-reply.php:44
+#: ../bbpress/form-topic.php:61
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:67
+#, php-format
+msgid "Forum Name (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-forum.php:82 ../bbpress/form-reply.php:64
+#: ../bbpress/form-topic.php:90
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:91
+msgid "Forum Type:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:100
+msgid "Status:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:109
+msgid "Visibility:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:118
+msgid "Parent Forum:"
+msgstr ""
+
+#: ../bbpress/form-forum.php:123
+msgid "(No Parent)"
+msgstr ""
+
+#: ../bbpress/form-forum.php:138 ../bbpress/form-reply-move.php:73
+#: ../bbpress/form-reply.php:135 ../bbpress/form-topic-merge.php:94
+#: ../bbpress/form-topic-split.php:98 ../bbpress/form-topic.php:203
+msgid "Submit"
+msgstr ""
+
+#: ../bbpress/form-forum.php:161
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You cannot create new forums."
+msgstr ""
+
+#: ../bbpress/form-forum.php:169
+msgid "You must be logged in to create new forums."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:24
+#, php-format
+msgid "Move reply \"%s\""
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:29
+msgid ""
+"You can either make this reply a new topic with a new title, or merge it "
+"into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:33
+msgid ""
+"If you choose an existing topic, replies will be ordered by the time and "
+"date they were created."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:37
+msgid "Move Method"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:41 ../bbpress/form-topic-split.php:41
+#, php-format
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:42
+#, php-format
+msgid "Moved: %s"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:49 ../bbpress/form-topic-split.php:49
+msgid "Use an existing topic in this forum:"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:58 ../bbpress/form-topic-split.php:58
+msgid "No other topics found!"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:69 ../bbpress/form-topic-merge.php:90
+#: ../bbpress/form-topic-split.php:94
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:86
+msgid "You do not have the permissions to edit this reply!"
+msgstr ""
+
+#: ../bbpress/form-reply-move.php:86
+msgid "You cannot edit this reply."
+msgstr ""
+
+#: ../bbpress/form-reply.php:29
+#, php-format
+msgid "Reply To: %s"
+msgstr ""
+
+#: ../bbpress/form-reply.php:36
+msgid ""
+"This topic is marked as closed to new replies, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-reply.php:75
+#: ../framework/widgets/infinite_flickr_widget.php:168
+msgid "Tags:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:93 ../bbpress/form-topic.php:164
+msgid "Notify the author of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:97 ../bbpress/form-topic.php:168
+msgid "Notify me of follow-up replies via email"
+msgstr ""
+
+#: ../bbpress/form-reply.php:114 ../bbpress/form-topic.php:184
+msgid "Keep a log of this edit:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:118 ../bbpress/form-topic.php:188
+msgid "Optional reason for editing:"
+msgstr ""
+
+#: ../bbpress/form-reply.php:158
+#, php-format
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:166 ../bbpress/form-topic.php:226
+#, php-format
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You cannot reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-reply.php:174
+msgid "You must be logged in to reply to this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:24
+#, php-format
+msgid "Merge topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:29
+msgid ""
+"Select the topic to merge this one into. The destination topic will remain "
+"the lead topic, and this one will change into a reply."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:30
+msgid ""
+"To keep this topic as the lead, go to the other topic and use the merge tool "
+"from there instead."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:34
+msgid ""
+"All replies within both topics will be merged chronologically. The order of "
+"the merged replies is based on the time and date they were posted. If the "
+"destination topic was created after this one, it's post date will be updated "
+"to second earlier than this one."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:38
+msgid "Destination"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:42
+msgid "Merge with this topic:"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:51
+msgid "No topics were found to which the topic could be merged to!"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:57
+msgid "There are no other topics in this forum to merge with."
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:65 ../bbpress/form-topic-split.php:69
+msgid "Topic Extras"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:72
+msgid "Merge topic subscribers"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:77
+msgid "Merge topic favoriters"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:82
+msgid "Merge topic tags"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:107 ../bbpress/form-topic-split.php:111
+msgid "You do not have the permissions to edit this topic!"
+msgstr ""
+
+#: ../bbpress/form-topic-merge.php:107 ../bbpress/form-topic-split.php:111
+msgid "You cannot edit this topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:24
+#, php-format
+msgid "Split topic \"%s\""
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:29
+msgid ""
+"When you split a topic, you are slicing it in half starting with the reply "
+"you just selected. Choose to use that reply as a new topic with a new title, "
+"or merge those replies into an existing topic."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:33
+msgid ""
+"If you use the existing topic option, replies within both topics will be "
+"merged chronologically. The order of the merged replies is based on the time "
+"and date they were posted."
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:37
+msgid "Split Method"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:42
+#, php-format
+msgid "Split: %s"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:76
+msgid "Copy subscribers to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:81
+msgid "Copy favoriters to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic-split.php:86
+msgid "Copy topic tags to the new topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:43
+#, php-format
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../bbpress/form-topic.php:43
+msgid "Create New Topic"
+msgstr ""
+
+#: ../bbpress/form-topic.php:53
+msgid ""
+"This forum is marked as closed to new topics, however your posting "
+"capabilities still allow you to do so."
+msgstr ""
+
+#: ../bbpress/form-topic.php:75
+#, php-format
+msgid "Topic Title (Maximum Length: %d):"
+msgstr ""
+
+#: ../bbpress/form-topic.php:101
+msgid "Topic Tags:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:114
+msgid "Forum:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:117
+msgid "(No Forum)"
+msgstr ""
+
+#: ../bbpress/form-topic.php:133
+msgid "Topic Type:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:145
+msgid "Topic Status:"
+msgstr ""
+
+#: ../bbpress/form-topic.php:234
+msgid "You cannot create new topics."
+msgstr ""
+
+#: ../bbpress/form-topic.php:234
+msgid "You must be logged in to create new topics."
+msgstr ""
+
+#: ../framework/importer/parsers.php:42 ../framework/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../framework/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../framework/importer/parsers.php:67 ../framework/importer/parsers.php:72
+#: ../framework/importer/parsers.php:262 ../framework/importer/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../framework/importer/revslider-import-class.php:99
+msgid "animations imported!"
+msgstr ""
+
+#: ../framework/importer/revslider-import-class.php:101
+msgid ""
+"no custom animations found, if slider uses custom animations, the provided "
+"export may be broken..."
+msgstr ""
+
+#: ../framework/importer/revslider-import-class.php:151
+msgid "dynamic styles imported!"
+msgstr ""
+
+#: ../framework/importer/revslider-import-class.php:153
+msgid ""
+"no dynamic styles found, if slider uses dynamic styles, the provided export "
+"may be broken..."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:134
+#: ../framework/importer/wordpress-importer.php:143
+#: ../framework/importer/wordpress-importer.php:194
+#: ../framework/importer/wordpress-importer.php:198
+#: ../framework/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:505
+#: ../framework/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../framework/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../framework/metaboxes/metaboxes.php:24
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../framework/metaboxes/metaboxes.php:66
+msgid "Post Options"
+msgstr ""
+
+#: ../framework/metaboxes/metaboxes.php:97
+msgid "Page Options"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:174
+msgid "Infinite Options"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:205
+msgid "Clear"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:206
+msgid "Default"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:207
+msgid "Select Color"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:253
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:285
+msgid "Default options restored."
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:339
+msgid "Options saved."
+msgstr ""
+
+#: ../framework/options-framework/options-framework.php:389
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:54
+#: ../framework/options-framework/options-media-uploader.php:111
+msgid "Upload"
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:56
+#: ../framework/options-framework/options-media-uploader.php:112
+msgid "Remove"
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: ../framework/options-framework/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: ../framework/options-framework/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:164
+#: ../framework/plugin-framework/plugin-framework.php:70
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:165
+#: ../framework/plugin-framework/plugin-framework.php:71
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:166
+#: ../framework/plugin-framework/plugin-framework.php:72
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:178
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:490
+#: ../framework/plugin-framework/plugin-framework.php:84
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:179
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1846
+#: ../framework/plugin-framework/plugin-framework.php:85
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:517
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1956
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1956
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/plugin-framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/plugin-framework/plugin-framework.php:73
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/plugin-framework/plugin-framework.php:86
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/portfolio/portfolio-type.php:8
+msgid "Portfolio Items"
+msgstr ""
+
+#: ../framework/portfolio/portfolio-type.php:9
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../framework/portfolio/portfolio-type.php:10
+#: ../framework/portfolio/portfolio-type.php:11
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../framework/portfolio/portfolio-type.php:12
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../framework/portfolio/portfolio-type.php:13
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:5
+msgid "CSS Animation"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:6
+msgid ""
+"Select the CSS animation for this element, leave it blank if you dont want "
+"any animation"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:44
+msgid "Button URL"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:45
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:50
+msgid "Button Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:51
+msgid "Add the Button's text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:55
+msgid "Button Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:56
+msgid "Select the button's style, ie the button's color"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:72
+msgid "Button Size"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:73
+msgid "Select the button's size"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:82
+#: ../framework/shortcodes/tinymce/config.php:186
+#: ../framework/shortcodes/tinymce/config.php:248
+msgid "Button Icon"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:83
+msgid "Select the button's Icon, it will be before the button text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:87
+msgid "Button Target"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:88
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:97
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:109
+msgid "Alert Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:110
+msgid "Select the alert's type - Success, Notice, Info or Warning"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:120
+msgid "Alert Color"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:121
+msgid ""
+"Color Of the Alert (This also generates the text & border color). This will "
+"override the colors set by the Alert Type!"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:125
+msgid "Show Close Icon ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:126
+msgid ""
+"Do you want to show a small close icon ? it will allow the users to close/"
+"dismiss the alert"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:136
+msgid "Alert Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:137
+msgid "Add the alert's text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:143
+msgid "Insert Alert Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:155
+msgid "Toggle Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:156
+msgid "Toggle Style - Normal or Alternate ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:164
+msgid "Toggle Type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:165
+msgid ""
+"Do you want normal Toggles (All open or close at same time) or Accordion "
+"(only one toggle open at any time) ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:174
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:181
+msgid "Toggle Title"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:182
+msgid "Title of the Toggle"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:187
+#: ../framework/shortcodes/tinymce/config.php:249
+msgid "Select the Icon, it will be dislayed along with the title"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:192
+msgid "Toggle Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:193
+msgid "Add the Toggle content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:197
+msgid "Add Toggle"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:210
+msgid "Tabs Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:211
+msgid "Tabs Style - Normal or Alternate ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:219
+msgid "Horizontal or Vertical tabs ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:229
+msgid "Active Tab"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:230
+msgid "Number of the tab you want to be active by default."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:236
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:243
+msgid "Tab Title"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:244
+msgid "Title of the tab"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:254
+msgid "Tab Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:255
+msgid "Add the tabs content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:259
+msgid "Add Tab"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:270
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:278
+msgid "Column Type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:279
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:308
+msgid "Column Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:309
+msgid "Add the column content."
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:313
+#: ../framework/shortcodes/tinymce/config.php:561
+msgid "Add Column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:329
+msgid "Youtube Video ID"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:330
+msgid ""
+"The video ID, this will be in the youtube video url (\"https://www.youtube."
+"com/watch?v=3P-m2cBCJSk\" - 3P-m2cBCJSk is the video id in this url)"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:335
+#: ../framework/shortcodes/tinymce/config.php:369
+msgid "Width of the video"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:336
+#: ../framework/shortcodes/tinymce/config.php:370
+msgid ""
+"Width of the video, leave it blank if you want a responsive video which will "
+"fit 100% to it's parent container"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:341
+#: ../framework/shortcodes/tinymce/config.php:375
+msgid "Height of the video"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:342
+#: ../framework/shortcodes/tinymce/config.php:376
+msgid ""
+"Height of the video, leave it blank if you want a responsive video which "
+"will resize based on the width"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:348
+#: ../framework/shortcodes/tinymce/config.php:382
+#: ../framework/shortcodes/tinymce/config.php:443
+msgid "Insert Youtube Video Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:363
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:364
+msgid ""
+"The video ID, this will be in the vimeo video url (\"http://player.vimeo.com/"
+"video/68688220\" - 68688220 is the video id in this URL)"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:397
+#: ../framework/shortcodes/tinymce/config.php:588
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:398
+#: ../framework/shortcodes/tinymce/config.php:589
+msgid "Select the Icon"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:402
+msgid "Icon Size"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:403
+msgid "Select the Icon Size"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:415
+msgid "Icon Type"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:416
+msgid "Action Icon or a normal Icon ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:424
+msgid "Icon Color"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:425
+msgid "Color Of the Icon"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:429
+msgid "Icon Style - Normal or Alternate ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:430
+msgid ""
+"Normal Icon will have the neat hover effect, but the background color can't "
+"be changed, If you wat a different background color change this to alternate "
+"but you can have the hover effect"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:438
+msgid "Icon Background Color"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:439
+msgid ""
+"Background color Of the Icon, choose this options only of you set the type "
+"as \"Action\" and the style as \"alternate\""
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:457
+msgid "Action Block"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:458
+msgid "Add the Action block's text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:463
+msgid "Insert Action Block Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:479
+#: ../framework/shortcodes/tinymce/config.php:682
+msgid "Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:480
+#: ../framework/shortcodes/tinymce/config.php:683
+msgid "Add text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:484
+msgid "Insert Dropcap Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:499
+msgid "Table"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:504
+msgid "Insert Datatable Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:516
+msgid "No. of Columns"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:517
+msgid "Total number of coluns in this Pricing table"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:529
+msgid "Featured Column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:530
+msgid "The Column # of the featured Column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:537
+msgid "Insert Pricing table Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:544
+#: ../framework/shortcodes/tinymce/config.php:633
+#: ../woocommerce/config.php:153
+msgid "Name"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:545
+msgid "Name for this column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:550
+#: ../woocommerce/config.php:154 ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:551
+msgid "Price for this column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:556
+#: ../framework/shortcodes/tinymce/config.php:662
+msgid "Content"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:557
+msgid "Content for this column"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:576
+msgid "Title"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:577
+msgid "Title for the progressbar"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:582
+msgid "Fill %"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:583
+#, php-format
+msgid "Fill % for the progressbar, enter a value between 1 to 100"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:594
+msgid "Color"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:595
+msgid "Color Of the Progressbar"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:599
+msgid "Style"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:600
+msgid "Normal or Striped ?"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:608
+msgid "Active"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:609
+msgid "Setting this option to yes will turn on the progress bar animation"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:618
+msgid "Insert Progress bar Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:634
+msgid "Full name of the user"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:638
+msgid "Designtaion"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:639
+msgid "Designation of the user"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:644
+msgid "User Avatar"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:645
+msgid "URL of the avatar image"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:650
+msgid "Website URL"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:651
+msgid "Website URL of the user"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:655
+msgid "Website URL Text"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:656
+msgid "Text to display for the URL"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:667
+msgid "Insert Testimonial Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:687
+msgid "Insert Testimonial Slider Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:702
+msgid "Post Count"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:703
+msgid "No. of posts you want to display"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:708
+msgid ""
+"Select the categories you want to display the posts from, dont select "
+"anything to display from all categories"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:713
+msgid "Insert Recent Blog Posts Shortcode"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:728
+msgid "Portfolio Count"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:729
+msgid "No. of portfolio items you want to display"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:734
+msgid ""
+"Select the categories you want to display the portfolio items from, dont "
+"select anything to display from all categories"
+msgstr ""
+
+#: ../framework/shortcodes/tinymce/config.php:739
+msgid "Insert Recent Portfolio Items Shortcode"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:7
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:8
+msgid "main-sidebar"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:9
+msgid "The Main sidebar area"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:38
+msgid "Footer Widget 1 (First Row)"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:39
+msgid "footer-widget1"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:40 ../framework/sidebar/sidebar.php:51
+msgid ""
+"The first Row of Footer Widgets, place widgets as per no. of footer widgets "
+"setting you set in Theme Options"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:49
+msgid "Footer Widget 2 (Second Row)"
+msgstr ""
+
+#: ../framework/sidebar/sidebar.php:50
+msgid "footer-widget2"
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:52
+msgid "Reading attachments..."
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:73
+msgid "No attachments found."
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:81
+msgid "Done."
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:84
+#, php-format
+msgid "\"Rebuilding \" + %s + \" of \" + %s + \" (\" + %s + \")...\""
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:103
+msgid "Error"
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:120
+msgid "Select which thumbnails you want to rebuild"
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:121
+msgid "Toggle all"
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:131
+msgid "cropped"
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:138
+msgid "Only rebuild featured images"
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:141
+msgid ""
+"Note: If you've changed the dimensions of your thumbnails, existing "
+"thumbnail images will not be deleted."
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:145
+msgid "Rebuild All Thumbnails"
+msgstr ""
+
+#: ../framework/thumbnails/ajax-thumbnail-rebuild.php:149
+msgid "Last image"
+msgstr ""
+
+#: ../framework/widgets/infinite_flickr_widget.php:160
+#: ../framework/widgets/infinite_twitter_widget.php:75
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/infinite_flickr_widget.php:164
+msgid "Username or RSS:"
+msgstr ""
+
+#: ../framework/widgets/infinite_flickr_widget.php:172
+msgid "Count:"
+msgstr ""
+
+#: ../framework/widgets/infinite_twitter_widget.php:82
+msgid "Tweets to show:"
+msgstr ""
+
+#: ../framework/widgets/infinite_twitter_widget.php:89
+msgid "Twitter user name:"
+msgstr ""
+
+#: ../woocommerce/config.php:16
+msgid "Shop Catalog Sidebar"
+msgstr ""
+
+#: ../woocommerce/config.php:17
+msgid "shop-catalog-sidebar"
+msgstr ""
+
+#: ../woocommerce/config.php:18
+msgid "Sidebar for Shop Catalog page (WooCommerce)"
+msgstr ""
+
+#: ../woocommerce/config.php:27
+msgid "Shop Product Sidebar"
+msgstr ""
+
+#: ../woocommerce/config.php:28
+msgid "shop-product-sidebar"
+msgstr ""
+
+#: ../woocommerce/config.php:29
+msgid "Sidebar for Single Product page (WooCommerce)"
+msgstr ""
+
+#: ../woocommerce/config.php:120
+msgid "was added to the cart"
+msgstr ""
+
+#: ../woocommerce/config.php:152
+msgid "Default Order"
+msgstr ""
+
+#: ../woocommerce/config.php:155
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/config.php:156
+msgid "Popularity"
+msgstr ""
+
+#: ../woocommerce/config.php:158
+msgid "Click to order products ascending"
+msgstr ""
+
+#: ../woocommerce/config.php:159
+msgid "Click to order products descending"
+msgstr ""
+
+#: ../woocommerce/config.php:161
+msgid "Products per page"
+msgstr ""
+
+#: ../woocommerce/config.php:176
+msgid "Sort By"
+msgstr ""
+
+#: ../woocommerce/config.php:193
+msgid "Show"
+msgstr ""
+
+#: ../woocommerce/config.php:301
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/config.php:410
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/config.php:418
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: ../woocommerce/config.php:471
+msgid "Share this product on your social platform !"
+msgstr ""
+
+#: ../woocommerce/config.php:517
+msgid "WooCommerce"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:26 ../woocommerce/cart/cart.php:27
+#: ../woocommerce/checkout/form-pay.php:19
+#: ../woocommerce/checkout/review-order.php:21
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30 ../woocommerce/checkout/review-order.php:22
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:95 ../woocommerce/checkout/form-pay.php:20
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:112
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:130
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:130 ../woocommerce/checkout/form-coupon.php:30
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:137
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:137
+msgid "Proceed to Checkout &rarr;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:63
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:68
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:69
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:23
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:26
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:17
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:21
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:78
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:87
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:27
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:34
+msgid "Cart Discount"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:45
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:82
+msgid "Order Discount"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:91
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:104
+#, php-format
+msgid "(Includes %s)"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:174
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:176
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:185
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:185
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:192
+msgid "Place order"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:199
+msgid "I have read and accept the"
+msgstr ""
+
+#: ../woocommerce/checkout/review-order.php:199
+msgid "terms &amp; conditions"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:91
+#: ../woocommerce/shop/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/shop/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/simple.php:44
+msgid "Add to cart"
+msgstr ""

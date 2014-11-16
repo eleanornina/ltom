@@ -1,0 +1,960 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eSell\n"
+"POT-Creation-Date: 2014-09-04 15:51+0530\n"
+"PO-Revision-Date: 2014-09-04 16:10+0530\n"
+"Last-Translator: Insertcart <admin@insertcart.com>\n"
+"Language-Team: Insertcart <admin@insertcart.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:7 archive.php:35 blog.php:16 contpage.php:22 contproduct.php:33
+#: image.php:90 index.php:13 search.php:16 single.php:28
+msgid "404 Error&#58; Not Found"
+msgstr "404 Errore: non trovato"
+
+#: 404.php:10
+msgid ""
+"Sorry, but the page you are trying to reach is unavailable or does not exist."
+msgstr ""
+"Ci dispiace, ma la pagina che stai cercando di raggiungere non è disponibile "
+"o non esiste."
+
+#: 404.php:11
+msgid "You may interested with this"
+msgstr "Potete interessato a questo"
+
+#: archive.php:14
+msgid "Archive for"
+msgstr "Archivio per"
+
+#: archive.php:27
+msgid "Blog Archives"
+msgstr "blog archivio"
+
+#: comments.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:31 comments.php:48
+msgid "Comment navigation"
+msgstr "Commento di navigazione"
+
+#: comments.php:32 comments.php:49
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti più vecchi"
+
+#: comments.php:33 comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: comments.php:60
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: contpage.php:11 contproduct.php:22 image.php:67 single.php:12
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: front-page.php:9
+msgid "You Main Headline here"
+msgstr "Voi principale Headline qui"
+
+#: front-page.php:10
+msgid ""
+"Set you description here from theme options > home page link to any page and "
+"upload image here. This is only for demonstration purpose you can set your "
+"own description here. "
+msgstr ""
+"Impostare si descrizione qui da opzioni a tema> home page collegamento a "
+"qualsiasi pagina e caricare l'immagine qui. Questo è solo per scopo "
+"dimostrativo è possibile impostare la vostra descrizione qui."
+
+#: front-page.php:17 front-page.php:19 front-page.php:24 front-page.php:26
+#: front-page.php:31 front-page.php:33
+msgid "Column Title here"
+msgstr "Colonna Titolo qui"
+
+#: front-page.php:18 front-page.php:20 front-page.php:25 front-page.php:27
+#: front-page.php:32 front-page.php:34
+msgid ""
+"Put description or feature detail here from theme option > home page and "
+"customize fonts"
+msgstr ""
+"Mettere descrizione o caratteristica dettaglio qui di opzione tema> home "
+"page e personalizzare i font"
+
+#: functions.php:71
+msgid "Navigation"
+msgstr "navigazione"
+
+#: functions.php:92
+#, php-format
+msgid "%2$s  %4$s"
+msgstr ""
+
+#: functions.php:102
+#, php-format
+msgid "View all posts by %s"
+msgstr "Visualizza tutti i messaggi di %s"
+
+#: functions.php:147
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:155
+msgid "Bottom Menu 1"
+msgstr "Menu inferiore 1"
+
+#: functions.php:163
+msgid "Bottom Menu 2"
+msgstr "Menu inferiore 2"
+
+#: functions.php:171
+msgid "Bottom Menu 4"
+msgstr "Menu inferiore 4"
+
+#: functions.php:229
+#, php-format
+msgid "Page %s"
+msgstr "Pagine %s"
+
+#: image.php:11
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:22
+msgid "Edit"
+msgstr "Modifica"
+
+#: inc/includes/class-options-framework-admin.php:90
+#: inc/includes/class-options-framework-admin.php:91
+msgid "Theme Options"
+msgstr "Opzioni tema"
+
+#: inc/includes/class-options-framework-admin.php:185
+msgid "Save Options"
+msgstr "Opzioni di salvataggio"
+
+#: inc/includes/class-options-framework-admin.php:186
+msgid "Restore Defaults"
+msgstr "Ripristina impostazioni predefinite"
+
+#: inc/includes/class-options-framework-admin.php:186
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Fare clic su OK per ripristinare. Tutte le impostazioni tema saranno perse!"
+
+#: inc/includes/class-options-framework-admin.php:217
+msgid "Default options restored."
+msgstr "Opzioni predefinite ripristinate."
+
+#: inc/includes/class-options-framework-admin.php:271
+msgid "Options saved."
+msgstr "Opzioni salvati."
+
+#: inc/includes/class-options-media-uploader.php:63
+msgid "No file chosen"
+msgstr "Nessun file scelto"
+
+#: inc/includes/class-options-media-uploader.php:66
+#: inc/includes/class-options-media-uploader.php:119
+msgid "Upload"
+msgstr "Carica"
+
+#: inc/includes/class-options-media-uploader.php:68
+#: inc/includes/class-options-media-uploader.php:120
+msgid "Remove"
+msgstr "rimuovere"
+
+#: inc/includes/class-options-media-uploader.php:71
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Aggiorna la tua versione di WordPress per il pieno supporto dei media."
+
+#: inc/includes/class-options-media-uploader.php:95
+msgid "View File"
+msgstr "Visualizza File"
+
+#: inc/includes/class-options-sanitization.php:253
+msgid "No Repeat"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:254
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:255
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:256
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:269
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:270
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:271
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:272
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:273
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:274
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:275
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:276
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:277
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:290
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:291
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:365
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:366
+msgid "Italic"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:367
+msgid "Bold"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:368
+msgid "Bold Italic"
+msgstr ""
+
+#: includes/adfun.php:19
+msgid "Copyright &#169;"
+msgstr "Copyright &#169;"
+
+#: includes/adfun.php:19
+msgid "http://www.wrock.org/esell-woocommerce-theme/"
+msgstr ""
+
+#: includes/adfun.php:19
+msgid "wrock.org"
+msgstr ""
+
+#: includes/adfun.php:19
+#, php-format
+msgid "| Theme: eSell %s"
+msgstr ""
+
+#: includes/author.php:2
+msgid "About"
+msgstr "circa"
+
+#: includes/ltposts.php:1
+msgid "Latest"
+msgstr "ultimo"
+
+#: includes/post.php:6 includes/post.php:13
+msgid "Read More &raquo;"
+msgstr "Per saperne di più &raquo;"
+
+#: options.php:31 options.php:42
+msgid "4"
+msgstr ""
+
+#: options.php:32
+msgid "8"
+msgstr ""
+
+#: options.php:33
+msgid "12"
+msgstr ""
+
+#: options.php:34
+msgid "16"
+msgstr ""
+
+#: options.php:35
+msgid "20"
+msgstr ""
+
+#: options.php:39
+msgid "1"
+msgstr ""
+
+#: options.php:40
+msgid "2"
+msgstr ""
+
+#: options.php:41
+msgid "3"
+msgstr ""
+
+#: options.php:43
+msgid "5"
+msgstr ""
+
+#: options.php:48
+msgid "French Toast"
+msgstr ""
+
+#: options.php:49
+msgid "Pancake"
+msgstr ""
+
+#: options.php:50
+msgid "Omelette"
+msgstr ""
+
+#: options.php:51
+msgid "Crepe"
+msgstr ""
+
+#: options.php:52
+msgid "Waffle"
+msgstr ""
+
+#: options.php:130
+msgid "Upgrade to Premium Theme & Enable Full Features!"
+msgstr "Aggiornamento a tema premium e Attiva caratteristiche complete!"
+
+#: options.php:131
+msgid "SEO Optimized WordPress Theme."
+msgstr "SEO Ottimizzato tema WordPress."
+
+#: options.php:132
+msgid "More Slides for your slider."
+msgstr "Altri Slides per il tuo cursore."
+
+#: options.php:133
+msgid "Theme Customization help & Support Forum."
+msgstr "Tema aiuto Personalizzazione & Forum di Supporto."
+
+#: options.php:134
+msgid "Page Speed Optimize for better result."
+msgstr "Velocità pagina Ottimizza per un risultato migliore."
+
+#: options.php:135
+msgid "Color Customize of theme."
+msgstr ""
+
+#: options.php:136
+msgid "Custom Widgets and Functions."
+msgstr ""
+
+#: options.php:137
+msgid "Social Media Integration."
+msgstr ""
+
+#: options.php:138
+msgid "Responsive Website Design."
+msgstr ""
+
+#: options.php:139
+msgid "Different Website Layout to Select."
+msgstr ""
+
+#: options.php:140
+msgid "Many of Other customize feature for your blog or website."
+msgstr ""
+
+#: options.php:141 options.php:692
+msgid "http://www.insertcart.com/esell"
+msgstr ""
+
+#: options.php:141
+msgid "Upgrade Now"
+msgstr "Aggiorna Adesso"
+
+#: options.php:141
+msgid "http://www.wrock.org/setup-esell-woocommerce-premium-theme-guide/"
+msgstr ""
+
+#: options.php:141
+msgid "How to Setup Theme !"
+msgstr "Come impostare tema!"
+
+#: options.php:147
+msgid "Basic Settings"
+msgstr "Impostazioni di base"
+
+#: options.php:151
+msgid "Custom Favicon URL"
+msgstr ""
+
+#: options.php:152
+msgid "Upload Favicon Image."
+msgstr ""
+
+#: options.php:157
+msgid "Upload Site Logo"
+msgstr "Carica il logo del sito"
+
+#: options.php:158
+msgid ""
+"Upload Website Logo here. Note you can upload any size it will automatic "
+"resize ."
+msgstr ""
+
+#: options.php:165
+msgid "Show Author Profile"
+msgstr "Mostra Profilo Autore"
+
+#: options.php:166
+msgid "Check the box to show Author Profile Below the Post and Pages."
+msgstr ""
+
+#: options.php:172
+msgid "Show Latest Posts in Sidebar"
+msgstr ""
+
+#: options.php:173
+msgid "Show 5 Latest Posts with Thumbnail in Sidebar."
+msgstr ""
+
+#: options.php:180
+msgid "Home Page"
+msgstr "Pagina"
+
+#: options.php:183
+msgid "Show blog posts on front page"
+msgstr ""
+
+#: options.php:184
+msgid "Check the box to show 5 posts on front page."
+msgstr ""
+
+#: options.php:193
+msgid "Configure Main Featured Are with Image"
+msgstr ""
+
+#: options.php:194
+msgid "Enter Title"
+msgstr ""
+
+#: options.php:199
+msgid "Enter Link"
+msgstr ""
+
+#: options.php:207 options.php:222 options.php:235 options.php:249
+#: options.php:262 options.php:276 options.php:289
+msgid "Put description about image or product here."
+msgstr "Mettere una descrizione sul immagine o prodotto qui."
+
+#: options.php:213
+msgid "Bottom Column 1 Configure "
+msgstr "Colonna inferiore 1 Configurare"
+
+#: options.php:214
+msgid "Column 1 Heading 1"
+msgstr "Colonna 1 Titolo 1"
+
+#: options.php:227
+msgid "Column 1 Heading 2"
+msgstr "Colonna 1 Titolo 2"
+
+#: options.php:240
+msgid "Bottom Column 2 Configure "
+msgstr "Colonna inferiore 2 Configurare"
+
+#: options.php:241
+msgid "Column 2 Heading 1"
+msgstr "Colonna 2 Titolo 1"
+
+#: options.php:254
+msgid "Column 2 Heading 2"
+msgstr "Colonna 2 Titolo 2"
+
+#: options.php:267
+msgid "Bottom Column 3 Configure "
+msgstr "Colonna inferiore 3 Configurare"
+
+#: options.php:268
+msgid "Column 3 Heading"
+msgstr "Colonna 3 Titolo 1"
+
+#: options.php:281
+msgid "Column 3 Heading 2"
+msgstr "Colonna 3 Titolo 2"
+
+#: options.php:296
+msgid "<span class=\"pre-titlehome\">Color Cutomize (Premium Only)</span>"
+msgstr ""
+
+#: options.php:299
+msgid "Numbers of Featured Woocommerce Products"
+msgstr "I numeri degli Woocommerce Prodotti"
+
+#: options.php:300
+msgid ""
+"Select how many product (Featured products)you want to display on front page "
+"Default: 8"
+msgstr ""
+"Seleziona il numero di prodotto (prodotti in vetrina) che si desidera "
+"visualizzare sul fronte pagina di default: 8"
+
+#: options.php:307
+msgid "Product Per column default : 4"
+msgstr "Prodotto per impostazione predefinita colonna: 4"
+
+#: options.php:314
+msgid "Info and Demo Button text"
+msgstr "Info e Demo testo Button"
+
+#: options.php:315
+msgid "Change Info and Demo Button text from woocommerce product"
+msgstr ""
+
+#: options.php:321
+msgid "Top Account navigation Color"
+msgstr ""
+
+#: options.php:322
+msgid "My Account Background Color."
+msgstr ""
+
+#: options.php:327
+msgid "Cart Item Background Color."
+msgstr ""
+
+#: options.php:333
+msgid "Main features Product area"
+msgstr ""
+
+#: options.php:334
+msgid "Main features product backgroud color Change."
+msgstr ""
+
+#: options.php:339
+msgid "Change Background color of 3 bottom info area."
+msgstr ""
+
+#: options.php:343 options.php:562
+msgid "Customize Theme Fonts"
+msgstr ""
+
+#: options.php:344
+msgid "Change Fonts Color and size of 3 info boxes."
+msgstr ""
+
+#: options.php:349
+msgid "Change description color and size of 3 boxes"
+msgstr ""
+
+#: options.php:356
+msgid "Social Media"
+msgstr ""
+
+#: options.php:359
+msgid "Show share buttons on Top Navigation"
+msgstr ""
+
+#: options.php:360
+msgid "Check or uncheck Box to show and hide share buttons"
+msgstr ""
+
+#: options.php:365
+msgid "Facebook Link"
+msgstr ""
+
+#: options.php:366
+msgid "Enter your Facebook URL if you have one."
+msgstr ""
+
+#: options.php:371
+msgid "Twitter Follow Link"
+msgstr ""
+
+#: options.php:372
+msgid "Enter your Twitter URL if you have one."
+msgstr ""
+
+#: options.php:377
+msgid "YouTube Channel Link"
+msgstr ""
+
+#: options.php:378
+msgid "Enter your YouTube URL if you have one."
+msgstr ""
+
+#: options.php:383
+msgid "Google+ URL"
+msgstr ""
+
+#: options.php:384
+msgid "Enter your Google+ Link if you have one."
+msgstr ""
+
+#: options.php:389
+msgid "RSS Feed URL"
+msgstr ""
+
+#: options.php:390
+msgid "Enter your RSS Feed URL if you have one"
+msgstr ""
+
+#: options.php:395
+msgid "Linked In URL"
+msgstr ""
+
+#: options.php:396
+msgid "Enter your Linkedin URL if you have one."
+msgstr ""
+
+#: options.php:401
+msgid "Pinterest In URL"
+msgstr ""
+
+#: options.php:402
+msgid "Enter your Pinterest URL if you have one."
+msgstr ""
+
+#: options.php:407
+msgid "Email Address to Contact"
+msgstr ""
+
+#: options.php:408
+msgid "Enter your email address if you have one"
+msgstr ""
+
+#: options.php:413
+msgid "Stumbleupon In URL"
+msgstr ""
+
+#: options.php:414
+msgid "Enter your Stumbleupon  address if you have one"
+msgstr ""
+
+#: options.php:423
+msgid "Custom Styling"
+msgstr ""
+
+#: options.php:426
+msgid "Custom CSS"
+msgstr ""
+
+#: options.php:427
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: options.php:433
+msgid "Ads Management"
+msgstr "Annunci di Gestione"
+
+#: options.php:436
+msgid "Paste Ads code below navigation"
+msgstr "Annunci Incolla il codice qui sotto navigazione"
+
+#: options.php:437
+msgid "Activate Ads Space Below Navigation and put code in below test field."
+msgstr ""
+
+#: options.php:442
+msgid "AD Code For Single Post"
+msgstr ""
+
+#: options.php:448
+msgid "AD Code For Footer"
+msgstr ""
+
+#: options.php:449
+msgid "Paste Ad Code for Footer Area."
+msgstr ""
+
+#: options.php:455
+msgid "Advance Options"
+msgstr "Opzioni avanzate"
+
+#: options.php:460
+msgid "<span class=\"pre-title\">New Features [Pro Only]</span>"
+msgstr ""
+
+#: options.php:464
+msgid "Popular Posts in Sidebar"
+msgstr ""
+
+#: options.php:465
+msgid "Display Popular Post Sidebar Widget."
+msgstr ""
+
+#: options.php:470
+msgid "Floating Share Buttons"
+msgstr ""
+
+#: options.php:471
+msgid "Display Floating Share widget with count."
+msgstr ""
+
+#: options.php:477
+msgid "Responsive Website Design"
+msgstr ""
+
+#: options.php:478
+msgid ""
+"Enable Responsive Design for you website to increase experience on Mobile "
+"Devices"
+msgstr ""
+
+#: options.php:483
+msgid "Display navigation step in Woocommerce "
+msgstr ""
+
+#: options.php:484
+msgid ""
+"Show or Hide navigation step in Woocommerce (1: Add to cart 2: View Cart 3: "
+"proceed to checkout 4: Detail & Payment 5: Get Product !)."
+msgstr ""
+
+#: options.php:493
+msgid "Excerpt Length (Number of words display in post description)"
+msgstr ""
+
+#: options.php:494
+msgid "Number of words display in every post description Default is 45."
+msgstr ""
+
+#: options.php:500
+msgid "Change Background"
+msgstr ""
+
+#: options.php:501
+msgid "Change the background CSS Color or Image."
+msgstr ""
+
+#: options.php:506
+msgid "Change background color of content area."
+msgstr ""
+
+#: options.php:511
+msgid "Change Link Color"
+msgstr ""
+
+#: options.php:512
+msgid "Select Links Color."
+msgstr ""
+
+#: options.php:518
+msgid "Change Link Hover Color."
+msgstr ""
+
+#: options.php:523
+msgid "Top Navigation Colors"
+msgstr ""
+
+#: options.php:524
+msgid "Main Navigation Background."
+msgstr ""
+
+#: options.php:530
+msgid "Main Navigation hover Color."
+msgstr ""
+
+#: options.php:535
+msgid "Home Icon from Top and Main Navigation"
+msgstr ""
+
+#: options.php:536
+msgid "Show or Hide Home Icon."
+msgstr ""
+
+#: options.php:546
+msgid "Page Number Navigation Color Change "
+msgstr ""
+
+#: options.php:547
+msgid "Change Current Page Background."
+msgstr ""
+
+#: options.php:552
+msgid "Change background color of other pages."
+msgstr ""
+
+#: options.php:557
+msgid "Numbers text Color Change."
+msgstr ""
+
+#: options.php:563
+msgid "Change <b>Body (Theme) Font</b> color and Size."
+msgstr ""
+
+#: options.php:568
+msgid "Change <b>H1 Posts and Pages Title </b>Font color or Size."
+msgstr ""
+
+#: options.php:573
+msgid "Footer Widget Area Settings"
+msgstr ""
+
+#: options.php:574
+msgid "Show or Hide Footer Widget Area."
+msgstr ""
+
+#: options.php:584
+msgid "Edit \"Read More\" Button"
+msgstr ""
+
+#: options.php:585
+msgid "Show or Hide \"Continue reading\" or read more Button  Button ."
+msgstr ""
+
+#: options.php:594
+msgid "Read More Button Color Change."
+msgstr ""
+
+#: options.php:599
+msgid ""
+"Paste You Custom text for Continue reading <b>Default: Continue reading "
+"&raquo; </b>."
+msgstr ""
+
+#: options.php:605
+msgid "Website layout"
+msgstr ""
+
+#: options.php:606
+msgid "Select Images for Website layout."
+msgstr ""
+
+#: options.php:619
+msgid "Google+ Publisher URL"
+msgstr ""
+
+#: options.php:620
+msgid ""
+"Paste Your Google Publisher URL https://plus.google.com/YOUR-GOOGLE+ID/posts."
+msgstr ""
+
+#: options.php:625
+msgid "Bing Site Verification"
+msgstr ""
+
+#: options.php:626
+msgid "Enter the ID only. It will be verified by Yahoo as well."
+msgstr ""
+
+#: options.php:631
+msgid "Google Site verification"
+msgstr ""
+
+#: options.php:632
+msgid "Enter your ID only."
+msgstr ""
+
+#: options.php:642
+msgid "Breadcrumbs Options"
+msgstr ""
+
+#: options.php:643
+msgid "Check Box to Enable or Disable Breadcrumbs."
+msgstr ""
+
+#: options.php:648
+msgid "Enable Post Meta Info."
+msgstr ""
+
+#: options.php:649
+msgid "Check Box to Show or Hide Tags "
+msgstr ""
+
+#: options.php:654
+msgid "Check Box to Show or Hide Comments "
+msgstr ""
+
+#: options.php:659
+msgid "Check Box to Show or Hide Categories "
+msgstr ""
+
+#: options.php:664
+msgid "Check Box to Show or Hide Author and date "
+msgstr ""
+
+#: options.php:670
+msgid "Next and Previous Post Link"
+msgstr ""
+
+#: options.php:671
+msgid "Show or Hide Next and Previous Post Link below every post."
+msgstr ""
+
+#: options.php:680
+msgid "Show or Hide Copy Right Text"
+msgstr ""
+
+#: options.php:681
+msgid "Show or Hide Copyright Text and Link."
+msgstr ""
+
+#: options.php:690
+msgid ""
+"Paste Ad code for single post it show ads below post title and before "
+"content."
+msgstr ""
+
+#: options.php:692
+msgid "Copyright  &#169; 2013 Theme by: "
+msgstr ""
+
+#: options.php:692
+msgid "insertcart.com"
+msgstr ""
+
+#: wooacc.php:3
+msgid "My Account"
+msgstr "il mio conto"
+
+#: wooacc.php:6
+msgid "Login / Register"
+msgstr "Accedi / Registrati"
+
+#: wooacc.php:9
+msgid "View your shopping cart"
+msgstr "Visualizza il tuo carrello della spesa"
+
+#: wooacc.php:9
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""

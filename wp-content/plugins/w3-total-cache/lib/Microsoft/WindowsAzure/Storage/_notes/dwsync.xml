@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="._Batch.php" server="ftp.eleanornina.com" local="130575413718118147" remote="130574871000000000" Dst="2" />
+<file name="._BatchStorageAbstract.php" server="ftp.eleanornina.com" local="130575413720870609" remote="130574871000000000" Dst="2" />
+<file name="._Blob.php" server="ftp.eleanornina.com" local="130575413722151573" remote="130574871000000000" Dst="2" />
+<file name="._BlobContainer.php" server="ftp.eleanornina.com" local="130575413728018075" remote="130574871000000000" Dst="2" />
+<file name="._BlobInstance.php" server="ftp.eleanornina.com" local="130575413730768838" remote="130574871000000000" Dst="2" />
+<file name="._DynamicTableEntity.php" server="ftp.eleanornina.com" local="130575413732059677" remote="130574871000000000" Dst="2" />
+<file name="._LeaseInstance.php" server="ftp.eleanornina.com" local="130575413748927966" remote="130574871000000000" Dst="2" />
+<file name="._PageRegionInstance.php" server="ftp.eleanornina.com" local="130575413751673035" remote="130574871000000000" Dst="2" />
+<file name="._Queue.php" server="ftp.eleanornina.com" local="130575413752915845" remote="130574871000000000" Dst="2" />
+<file name="._QueueInstance.php" server="ftp.eleanornina.com" local="130575413758653153" remote="130574871000000000" Dst="2" />
+<file name="._QueueMessage.php" server="ftp.eleanornina.com" local="130575413761403001" remote="130574871000000000" Dst="2" />
+<file name="._SignedIdentifier.php" server="ftp.eleanornina.com" local="130575413762696946" remote="130574871000000000" Dst="2" />
+<file name="._StorageEntityAbstract.php" server="ftp.eleanornina.com" local="130575413768567313" remote="130574871000000000" Dst="2" />
+<file name="._Table.php" server="ftp.eleanornina.com" local="130575413771367399" remote="130574871000000000" Dst="2" />
+<file name="._TableEntity.php" server="ftp.eleanornina.com" local="130575413772665821" remote="130574871000000000" Dst="2" />
+<file name="._TableEntityQuery.php" server="ftp.eleanornina.com" local="130575413777609232" remote="130574871000000000" Dst="2" />
+<file name="._TableInstance.php" server="ftp.eleanornina.com" local="130575413780368174" remote="130574871000000000" Dst="2" />
+<file name="._index.html" server="ftp.eleanornina.com" local="130575413781581826" remote="130574871000000000" Dst="2" />
+<file name="BatchStorageAbstract.php" server="ftp.eleanornina.com" local="130602274651328531" remote="130590268800000000" Dst="1" />
+<file name="BlobContainer.php" server="ftp.eleanornina.com" local="130602274658854460" remote="130590268800000000" Dst="1" />
+<file name="BlobInstance.php" server="ftp.eleanornina.com" local="130602274659825358" remote="130590268800000000" Dst="1" />
+<file name="Blob.php" server="ftp.eleanornina.com" local="130602274667600343" remote="130590268800000000" Dst="1" />
+<file name="DynamicTableEntity.php" server="ftp.eleanornina.com" local="130602274665468513" remote="130590268800000000" Dst="1" />
+<file name="LeaseInstance.php" server="ftp.eleanornina.com" local="130602274666439089" remote="130590268800000000" Dst="1" />
+<file name="PageRegionInstance.php" server="ftp.eleanornina.com" local="130602274674756328" remote="130590268800000000" Dst="1" />
+<file name="QueueInstance.php" server="ftp.eleanornina.com" local="130602274675796916" remote="130590268800000000" Dst="1" />
+<file name="Queue.php" server="ftp.eleanornina.com" local="130602274676867675" remote="130590268800000000" Dst="1" />
+<file name="QueueMessage.php" server="ftp.eleanornina.com" local="130602274697343799" remote="130590268800000000" Dst="1" />
+<file name="SignedIdentifier.php" server="ftp.eleanornina.com" local="130602274699345182" remote="130590268800000000" Dst="1" />
+<file name="StorageEntityAbstract.php" server="ftp.eleanornina.com" local="130602274699415274" remote="130590268800000000" Dst="1" />
+<file name="TableEntity.php" server="ftp.eleanornina.com" local="130602274719940503" remote="130590268800000000" Dst="1" />
+<file name="TableEntityQuery.php" server="ftp.eleanornina.com" local="130602274720916207" remote="130590268800000000" Dst="1" />
+<file name="Table.php" server="ftp.eleanornina.com" local="130602274721906954" remote="130590268800000000" Dst="1" />
+<file name="index.html" server="ftp.eleanornina.com" local="130602274720926060" remote="130590268800000000" Dst="1" />
+<file name="TableInstance.php" server="ftp.eleanornina.com" local="130602274730384725" remote="130590268800000000" Dst="1" />
+<file name="Batch.php" server="ftp.eleanornina.com" local="130602274641019902" remote="130590268800000000" Dst="1" />
+</dwsync>

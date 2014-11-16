@@ -1,0 +1,211 @@
+11-12-2014 @ 22:17:00 - Generating payment form for order #142. Notify URL: http://www.eleanornina.com/littletouchofmagic/wc-api/WC_Gateway_Paypal/
+11-15-2014 @ 08:42:15 - Generating payment form for order #254. Notify URL: http://www.eleanornina.com/littletouchofmagic/wc-api/WC_Gateway_Paypal/
+11-15-2014 @ 08:43:08 - Checking IPN response is valid via https://www.paypal.com/cgi-bin/webscr...
+11-15-2014 @ 08:43:08 - IPN Request: Array
+(
+    [body] => Array
+        (
+            [cmd] => _notify-validate
+            [mc_gross] => 0.13
+            [invoice] => WC-254
+            [protection_eligibility] => Ineligible
+            [address_status] => confirmed
+            [item_number1] => 
+            [tax] => 0.00
+            [item_number2] => 
+            [payer_id] => 76Y3ZHYV5M5JA
+            [address_street] => 63 Huntington Dr
+            [payment_date] => 00:43:03 Nov 15, 2014 PST
+            [payment_status] => Pending
+            [charset] => windows-1252
+            [address_zip] => 94015-3815
+            [mc_shipping] => 0.00
+            [mc_handling] => 0.00
+            [first_name] => Eleanor
+            [address_country_code] => US
+            [address_name] => Eleanor Encarnacion
+            [notify_version] => 3.8
+            [custom] => a:2:{i:0;i:254;i:1;s:22:"wc_order_546711e6bb99b";}
+            [payer_status] => verified
+            [business] => littletouchofmagic@gmail.com
+            [address_country] => United States
+            [num_cart_items] => 2
+            [mc_handling1] => 0.00
+            [mc_handling2] => 0.00
+            [address_city] => Daly City
+            [verify_sign] => Ae4eqEPlvFwYuXka2cAk7D9prwKzAtwRehAFev3HnN8o9LXIZPD.Jb6S
+            [payer_email] => eleanor.encarnacion@gmail.com
+            [mc_shipping1] => 0.00
+            [mc_shipping2] => 0.00
+            [tax1] => 0.00
+            [tax2] => 0.00
+            [txn_id] => 4D5547443L941921F
+            [payment_type] => instant
+            [last_name] => Encarnacion
+            [address_state] => CA
+            [item_name1] => Santa Clause
+            [receiver_email] => littletouchofmagic@gmail.com
+            [item_name2] => Card from Santa ( Recipient&#039;s Name: zdfasdfa, 
+Knowing More About Your Child Will Help Us Create An Experience They Wil...
+            [shipping_discount] => 0.00
+            [quantity1] => 1
+            [insurance_amount] => 0.00
+            [quantity2] => 1
+            [pending_reason] => unilateral
+            [txn_type] => cart
+            [discount] => 12.86
+            [mc_gross_1] => 0.00
+            [mc_currency] => USD
+            [mc_gross_2] => 12.99
+            [residence_country] => US
+            [shipping_method] => Default
+            [transaction_subject] => a:2:{i:0;i:254;i:1;s:22:"wc_order_546711e6bb99b";}
+            [payment_gross] => 0.13
+            [ipn_track_id] => 69825aca1b343
+        )
+
+    [sslverify] => 
+    [timeout] => 60
+    [httpversion] => 1.1
+    [compress] => 
+    [decompress] => 
+    [user-agent] => WooCommerce/2.2.8
+)
+
+11-15-2014 @ 08:43:10 - IPN Response: Array
+(
+    [headers] => Array
+        (
+            [server] => Apache
+            [x-frame-options] => SAMEORIGIN
+            [content-type] => text/html; charset=UTF-8
+            [dc] => slc-origin-www.paypal.com
+            [date] => Sat, 15 Nov 2014 08:43:10 GMT
+            [content-length] => 8
+            [connection] => close
+            [set-cookie] => Array
+                (
+                    [0] => cwrClyrK4LoCV1fydGbAxiNL6iG=HOqlP8OyVmznWABKnt8-voImMdmD3qdj4xzeMUDR8xh_mTpXR_gbtWaJpls7412GzEJklPS4y0hPv4YmF5NwuDhb-2pXzw4wVsWCAD8iGbx4fvIB9bmYGxmXaznBgdKi_GuSgA-tPluEB_Jli3pl15yJwivDlWsBz36lDHxzH4qnXr2OgPoD_lbwxeiCXsZjKw3XL_smac5nB9SKX_ULdaXw3Jk7ZnjWqc7WNE56xp8anhi1u5a_n6Szy6lj8ndEfiXo516g_Kq3K2rGzuZcj3v_0V2zfdTy5VYfENLzTvkpXl_ky8RN9uxOYCEioEWz6G3AfkrL5HNID99cmFWuVcN_D55mj1jj61kgRAekjEti6Qk-fCuYrDV-53jXArastMsq225gm-CnsfWNjzke2aumzYOCQvnETyHbr1a2qn6vNOGRXOjwBG592Qu; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [1] => cookie_check=yes; expires=Tue, 12-Nov-2024 08:43:10 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [2] => navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [3] => navlns=0.0; expires=Mon, 14-Nov-2016 08:43:10 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [4] => Apache=10.16.0.14.1416040990161336; path=/; expires=Mon, 07-Nov-44 08:43:10 GMT
+                    [5] => X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dslingshot%26TIME%3D504522580; domain=.paypal.com; path=/; Secure; HttpOnly
+                    [6] => X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+                    [7] => Apache=10.16.0.11.1416040990154160; path=/; expires=Mon, 07-Nov-44 08:43:10 GMT
+                    [8] => AKDC=slc-origin-www.paypal.com; expires=Sat, 15-Nov-2014 09:13:10 GMT; path=/; secure
+                )
+
+            [strict-transport-security] => max-age=63072000
+        )
+
+    [body] => VERIFIED
+    [response] => Array
+        (
+            [code] => 200
+            [message] => OK
+        )
+
+    [cookies] => Array
+        (
+            [0] => WP_Http_Cookie Object
+                (
+                    [name] => cwrClyrK4LoCV1fydGbAxiNL6iG
+                    [value] => HOqlP8OyVmznWABKnt8-voImMdmD3qdj4xzeMUDR8xh_mTpXR_gbtWaJpls7412GzEJklPS4y0hPv4YmF5NwuDhb-2pXzw4wVsWCAD8iGbx4fvIB9bmYGxmXaznBgdKi_GuSgA-tPluEB_Jli3pl15yJwivDlWsBz36lDHxzH4qnXr2OgPoD_lbwxeiCXsZjKw3XL_smac5nB9SKX_ULdaXw3Jk7ZnjWqc7WNE56xp8anhi1u5a_n6Szy6lj8ndEfiXo516g_Kq3K2rGzuZcj3v_0V2zfdTy5VYfENLzTvkpXl_ky8RN9uxOYCEioEWz6G3AfkrL5HNID99cmFWuVcN_D55mj1jj61kgRAekjEti6Qk-fCuYrDV-53jXArastMsq225gm-CnsfWNjzke2aumzYOCQvnETyHbr1a2qn6vNOGRXOjwBG592Qu
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [1] => WP_Http_Cookie Object
+                (
+                    [name] => cookie_check
+                    [value] => yes
+                    [expires] => 1731400990
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [2] => WP_Http_Cookie Object
+                (
+                    [name] => navcmd
+                    [value] => _notify-validate
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [3] => WP_Http_Cookie Object
+                (
+                    [name] => navlns
+                    [value] => 0.0
+                    [expires] => 1479112990
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [4] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.14.1416040990161336
+                    [expires] => 
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [5] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => name=LIVE9.WEB.1&silo_version=880&app=slingshot&TIME=504522580
+                    [expires] => 
+                    [path] => /
+                    [domain] => .paypal.com
+                    [secure] => 
+                    [httponly] => 
+                )
+
+            [6] => WP_Http_Cookie Object
+                (
+                    [name] => X-PP-SILOVER
+                    [value] => 
+                    [expires] => 1
+                    [path] => /cgi-bin/
+                    [domain] => www.paypal.com
+                )
+
+            [7] => WP_Http_Cookie Object
+                (
+                    [name] => Apache
+                    [value] => 10.16.0.11.1416040990154160
+                    [expires] => 
+                    [path] => /
+                    [domain] => www.paypal.com
+                )
+
+            [8] => WP_Http_Cookie Object
+                (
+                    [name] => AKDC
+                    [value] => slc-origin-www.paypal.com
+                    [expires] => 1416042790
+                    [path] => /
+                    [domain] => www.paypal.com
+                    [secure] => 
+                )
+
+        )
+
+    [filename] => 
+)
+
+11-15-2014 @ 08:43:10 - Received valid response from PayPal
+11-15-2014 @ 08:43:10 - Found order #254
+11-15-2014 @ 08:43:10 - Payment status: pending
+11-15-2014 @ 08:43:11 - Payment complete.

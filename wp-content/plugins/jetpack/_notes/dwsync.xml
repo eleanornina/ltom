@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".svnignore" server="ftp.eleanornina.com" local="130606452460004934" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-admin.php" server="ftp.eleanornina.com" local="130606452904459084" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-cli.php" server="ftp.eleanornina.com" local="130606452914818255" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-bbpress-json-api-compat.php" server="ftp.eleanornina.com" local="130606452914808268" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-client-server.php" server="ftp.eleanornina.com" local="130606452964741483" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-client.php" server="ftp.eleanornina.com" local="130606452963320665" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-data.php" server="ftp.eleanornina.com" local="130606452963330473" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-debugger.php" server="ftp.eleanornina.com" local="130606453014250530" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-error.php" server="ftp.eleanornina.com" local="130606453014260526" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-heartbeat.php" server="ftp.eleanornina.com" local="130606453015271237" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-ixr-client.php" server="ftp.eleanornina.com" local="130606453023839732" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-modules-list-table.php" server="ftp.eleanornina.com" local="130606453023999828" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-network-sites-list-table.php" server="ftp.eleanornina.com" local="130606453024955468" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-network.php" server="ftp.eleanornina.com" local="130606453038103967" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-options.php" server="ftp.eleanornina.com" local="130606453036522843" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-post-images.php" server="ftp.eleanornina.com" local="130606453051538515" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-signature.php" server="ftp.eleanornina.com" local="130606453069379098" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-twitter-cards.php" server="ftp.eleanornina.com" local="130606453070970223" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-sync.php" server="ftp.eleanornina.com" local="130606453072181090" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-user-agent.php" server="ftp.eleanornina.com" local="130606453116660060" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-xmlrpc-server.php" server="ftp.eleanornina.com" local="130606453112285106" remote="130603761000000000" Dst="1" />
+<file name="class.json-api-endpoints.php" server="ftp.eleanornina.com" local="130606453221918138" remote="130603761000000000" Dst="1" />
+<file name="class.json-api.php" server="ftp.eleanornina.com" local="130606453207264226" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack.php" server="ftp.eleanornina.com" local="130606453232521100" remote="130603761000000000" Dst="1" />
+<file name="class.media-extractor.php" server="ftp.eleanornina.com" local="130606453294082464" remote="130603761000000000" Dst="1" />
+<file name="class.media-summary.php" server="ftp.eleanornina.com" local="130606453349584176" remote="130603761000000000" Dst="1" />
+<file name="class.photon.php" server="ftp.eleanornina.com" local="130606479295565606" remote="130603761000000000" Dst="1" />
+<file name="composer.json" server="ftp.eleanornina.com" local="130606479296636365" remote="130603761000000000" Dst="1" />
+<file name="functions.compat.php" server="ftp.eleanornina.com" local="130606479438981898" remote="130603761000000000" Dst="1" />
+<file name="functions.gallery.php" server="ftp.eleanornina.com" local="130606479446167849" remote="130603761000000000" Dst="1" />
+<file name="functions.opengraph.php" server="ftp.eleanornina.com" local="130606479448174243" remote="130603761000000000" Dst="1" />
+<file name="jetpack.php" server="ftp.eleanornina.com" local="130606479851011685" remote="130603761000000000" Dst="1" />
+<file name="functions.photon.php" server="ftp.eleanornina.com" local="130606479459229017" remote="130603761000000000" Dst="1" />
+<file name="json-endpoints.php" server="ftp.eleanornina.com" local="130606480100230264" remote="130603761000000000" Dst="1" />
+<file name="locales.php" server="ftp.eleanornina.com" local="130606480900589485" remote="130603761000000000" Dst="1" />
+<file name="require-lib.php" server="ftp.eleanornina.com" local="130606483485358328" remote="130603761000000000" Dst="1" />
+<file name="uninstall.php" server="ftp.eleanornina.com" local="130606483647551187" remote="130603761000000000" Dst="1" />
+<file name="readme.txt" server="ftp.eleanornina.com" local="130606483485348270" remote="130603761000000000" Dst="1" />
+<file name="wpml-config.xml" server="ftp.eleanornina.com" local="130606483710689556" remote="130603761000000000" Dst="1" />
+<file name="class.jetpack-autoupdate.php" server="ftp.eleanornina.com" local="130606452912870717" remote="130603761000000000" Dst="1" />
+</dwsync>

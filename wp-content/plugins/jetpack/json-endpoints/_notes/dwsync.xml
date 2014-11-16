@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.json-api-jetpack-endpoints.php" server="ftp.eleanornina.com" local="130602268918799447" remote="130536859800000000" Dst="1" />
+<file name="class.wpcom-json-api-comment-endpoint.php" server="ftp.eleanornina.com" local="130606479857927097" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-delete-media-endpoint.php" server="ftp.eleanornina.com" local="130606479860669020" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-get-comment-endpoint.php" server="ftp.eleanornina.com" local="130606479868468825" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-get-media-endpoint.php" server="ftp.eleanornina.com" local="130606479872426242" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-get-site-endpoint.php" server="ftp.eleanornina.com" local="130606479882885940" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-get-post-endpoint.php" server="ftp.eleanornina.com" local="130606479879763694" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-get-taxonomies-endpoint.php" server="ftp.eleanornina.com" local="130606479884320404" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-get-taxonomy-endpoint.php" server="ftp.eleanornina.com" local="130606479890293805" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-list-comments-endpoint.php" server="ftp.eleanornina.com" local="130606479905299517" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-list-embeds-endpoint.php" server="ftp.eleanornina.com" local="130606479906620474" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-list-media-endpoint.php" server="ftp.eleanornina.com" local="130606479911825735" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-list-posts-endpoint.php" server="ftp.eleanornina.com" local="130606479916754960" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-list-shortcodes-endpoint.php" server="ftp.eleanornina.com" local="130606479922625715" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-list-users-endpoint.php" server="ftp.eleanornina.com" local="130606479925662629" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-render-embed-endpoint.php" server="ftp.eleanornina.com" local="130606479933489330" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-post-endpoint.php" server="ftp.eleanornina.com" local="130606479931511295" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-render-endpoint.php" server="ftp.eleanornina.com" local="130606479954388029" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-render-shortcode-endpoint.php" server="ftp.eleanornina.com" local="130606479955529661" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-taxonomy-endpoint.php" server="ftp.eleanornina.com" local="130606479962403863" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-update-media-endpoint.php" server="ftp.eleanornina.com" local="130606479969967933" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-update-post-endpoint.php" server="ftp.eleanornina.com" local="130606479979354966" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-update-comment-endpoint.php" server="ftp.eleanornina.com" local="130606479964080310" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-update-taxonomy-endpoint.php" server="ftp.eleanornina.com" local="130606479982176959" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-upload-media-endpoint.php" server="ftp.eleanornina.com" local="130606479983577950" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-delete-media-v1-1-endpoint.php" server="ftp.eleanornina.com" local="130606479862450304" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-get-media-v1-1-endpoint.php" server="ftp.eleanornina.com" local="130606479873834766" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-list-media-v1-1-endpoint.php" server="ftp.eleanornina.com" local="130606479915282752" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-publicize-endpoint.php" server="ftp.eleanornina.com" local="130606479933479320" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-render-embed-reversal-endpoint.php" server="ftp.eleanornina.com" local="130606479954388029" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-update-media-v1-1-endpoint.php" server="ftp.eleanornina.com" local="130606479973147870" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-site-settings-endpoint.php" server="ftp.eleanornina.com" local="130606479974291358" remote="130603761000000000" Dst="1" />
+<file name="class.wpcom-json-api-upload-media-v1-1-endpoint.php" server="ftp.eleanornina.com" local="130606479988334500" remote="130603761000000000" Dst="1" />
+</dwsync>
